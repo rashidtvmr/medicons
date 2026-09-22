@@ -1,5 +1,5 @@
 {
-  "name": "@hospital/clinical-icons",
+  "name": "@frontendxlab/medicons",
   "version": "1.0.0",
   "description": "Original hospital-specific SVG icons as React components",
   "type": "module",

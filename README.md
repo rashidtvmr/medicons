@@ -127,7 +127,7 @@ npm install /absolute/path/to/hospital-icons/react
 Then:
 
 ```tsx
-import { CardiologyIcon, MriScannerIcon } from "@hospital/clinical-icons";
+import { CardiologyIcon, MriScannerIcon } from "@frontendxlab/medicons";
 
 export function Services() {
   return (
@@ -154,7 +154,7 @@ export function Services() {
 Direct import, which avoids importing a category or full catalog entrypoint:
 
 ```tsx
-import { CardiologyIcon } from "@hospital/clinical-icons/specialties/cardiology";
+import { CardiologyIcon } from "@frontendxlab/medicons/specialties/cardiology";
 ```
 
 The component API accepts standard SVG props, a forwarded ref, and:

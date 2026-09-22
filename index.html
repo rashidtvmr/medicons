@@ -58,7 +58,7 @@ $('size').addEventListener('input',()=>{document.documentElement.style.setProper
 $('color').addEventListener('input',()=>{iconColor=$('color').value;document.documentElement.style.setProperty('--icon-color',iconColor);$('color-out').value=iconColor;});
 $('color-reset').addEventListener('click',()=>{iconColor='#14328c';document.documentElement.style.setProperty('--icon-color',iconColor);$('color').value=iconColor;$('color-out').value=iconColor;});
 $('close').addEventListener('click',()=>$('detail').close());$('detail').addEventListener('click',e=>{if(e.target===$('detail')){const r=$('detail').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('detail').close();}});
-$('copy').addEventListener('click',()=>copy($('source').value,$('copy')));$('copy-import').addEventListener('click',()=>copy('import { '+active.component+' } from "@hospital/clinical-icons";\n\n'+$('jsx').textContent,$('copy-import')));
+$('copy').addEventListener('click',()=>copy($('source').value,$('copy')));$('copy-import').addEventListener('click',()=>copy('import { '+active.component+' } from "@frontendxlab/medicons";\n\n'+$('jsx').textContent,$('copy-import')));
 render();
 </script>
 </body>

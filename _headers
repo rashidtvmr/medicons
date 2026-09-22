@@ -1,0 +1,9 @@
+/svg/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+/index.html
+  Cache-Control: public, max-age=3600
+/CATALOG.md
+  Content-Type: text/markdown; charset=utf-8
+/README.md
+  Content-Type: text/markdown; charset=utf-8

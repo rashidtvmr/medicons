@@ -1,4 +1,4 @@
-# @hospital/clinical-icons
+# @frontendxlab/medicons
 
 Optional local React package for the Hospital Clinical Icons SVG pack.
 
@@ -14,7 +14,7 @@ npm install /absolute/path/to/hospital-icons/react
 ```
 
 ```tsx
-import { CardiologyIcon } from "@hospital/clinical-icons/specialties/cardiology";
+import { CardiologyIcon } from "@frontendxlab/medicons/specialties/cardiology";
 
 <CardiologyIcon size={48} variant="duotone" title="Cardiology" />
 <CardiologyIcon size={48} animation="beam" duration={3} title="Cardiology" />
