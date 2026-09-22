@@ -1,9 +1,0 @@
-export { PhysiotherapyIcon } from "../icons/rehabilitation/physiotherapy.js";
-export { GaitTrainingIcon } from "../icons/rehabilitation/gait-training.js";
-export { JointRehabilitationIcon } from "../icons/rehabilitation/joint-rehabilitation.js";
-export { SportsRehabilitationIcon } from "../icons/rehabilitation/sports-rehabilitation.js";
-export { NeuroRehabilitationIcon } from "../icons/rehabilitation/neuro-rehabilitation.js";
-export { PulmonaryRehabilitationIcon } from "../icons/rehabilitation/pulmonary-rehabilitation.js";
-export { CardiacRehabilitationIcon } from "../icons/rehabilitation/cardiac-rehabilitation.js";
-export { OccupationalTherapyIcon } from "../icons/rehabilitation/occupational-therapy.js";
-export { SpeechTherapyIcon } from "../icons/rehabilitation/speech-therapy.js";

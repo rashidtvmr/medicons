@@ -1,3 +1,0 @@
-"use client";
-import { createClinicalIcon } from "../../core.js";
-export const IsolationUnitIcon = createClinicalIcon("isolation-unit", "IsolationUnitIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 7, "y": 5, "width": 34, "height": 39, "rx": 3 } }, { "tag": "path", "role": "line", "attrs": { "d": "M25 7 V42" } }, { "tag": "rect", "role": "cut", "attrs": { "x": 10, "y": 11, "width": 12, "height": 21, "rx": 1 } }, { "tag": "circle", "role": "cut", "attrs": { "cx": 31, "cy": 25, "r": 1.8 } }, { "tag": "path", "role": "line", "attrs": { "d": "M13 17 H20 M13 23 H20 M15 29 H20" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M29 9 L35 9 L37 17 L27 17 Z" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M32 11 V15" } }]);

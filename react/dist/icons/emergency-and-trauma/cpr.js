@@ -1,3 +1,0 @@
-"use client";
-import { createClinicalIcon } from "../../core.js";
-export const CprIcon = createClinicalIcon("cpr", "CprIcon", [{ "tag": "circle", "role": "body", "attrs": { "cx": 10, "cy": 31, "r": 4 } }, { "tag": "path", "role": "body", "attrs": { "d": "M15 36 L17 28 H33 L40 35 V40 H6 V36 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M13 6 L20 6 L29 21 L23 26 L19 21 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M31 6 H38 L28 24 L22 24 L22 20 Z" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M20 15 L25 22 L30 15 M22 29 H28" } }, { "tag": "path", "role": "line", "attrs": { "d": "M5 43 H43" } }]);

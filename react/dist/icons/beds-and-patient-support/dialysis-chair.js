@@ -1,3 +1,0 @@
-"use client";
-import { createClinicalIcon } from "../../core.js";
-export const DialysisChairIcon = createClinicalIcon("dialysis-chair", "DialysisChairIcon", [{ "tag": "g", "attrs": { "transform": "translate(0 1) scale(0.97)" }, "children": [{ "tag": "path", "role": "body", "attrs": { "d": "M10 11 Q11 7 15 9 L23 25 H36 L42 32 H22 L11 18 Z" } }, { "tag": "path", "role": "line", "attrs": { "d": "M17 24 L12 38 M33 33 V41 M12 41 H39" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M16 15 L25 30 H36" } }] }, { "tag": "path", "role": "line", "attrs": { "d": "M35 7 V22 M31 8 H41" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 33, "y": 11, "width": 6, "height": 10, "rx": 1 } }, { "tag": "path", "role": "line", "attrs": { "d": "M36 21 C36 26 29 25 26 26" } }]);

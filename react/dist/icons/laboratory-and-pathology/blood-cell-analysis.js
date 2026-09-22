@@ -1,3 +1,0 @@
-"use client";
-import { createClinicalIcon } from "../../core.js";
-export const BloodCellAnalysisIcon = createClinicalIcon("blood-cell-analysis", "BloodCellAnalysisIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 4, "y": 5, "width": 28, "height": 30, "rx": 3 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M9 11 H15 M9 17 H17 M9 23 H13 M9 29 H19" } }, { "tag": "circle", "role": "accent", "attrs": { "cx": 33, "cy": 31, "r": 10 } }, { "tag": "ellipse", "role": "cut", "attrs": { "cx": 31, "cy": 29, "rx": 4, "ry": 3 } }, { "tag": "circle", "role": "cut", "attrs": { "cx": 37, "cy": 35, "r": 2 } }, { "tag": "path", "role": "line", "attrs": { "d": "M30 41 L30 43 M36 41 V43" } }]);

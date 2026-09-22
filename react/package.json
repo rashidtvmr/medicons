@@ -1,13 +1,42 @@
 {
   "name": "@frontendxlab/medicons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Original hospital-specific SVG icons as React components",
   "type": "module",
   "sideEffects": false,
   "license": "MIT",
+  "homepage": "https://github.com/rashidtvmr/medicons#readme",
+  "bugs": {
+    "url": "https://github.com/rashidtvmr/medicons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashidtvmr/medicons.git",
+    "directory": "react"
+  },
+  "keywords": [
+    "react",
+    "icons",
+    "hospital",
+    "clinical",
+    "medical",
+    "svg",
+    "healthcare"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build",
+    "test": "tsc --noEmit -p tsconfig.json"
+  },
   "files": [
     "dist",
     "src",
@@ -118,5 +147,9 @@
       "import": "./dist/icons/*.js",
       "default": "./dist/icons/*.js"
     }
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
   }
 }

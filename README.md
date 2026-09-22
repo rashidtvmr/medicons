@@ -157,6 +157,14 @@ Direct import, which avoids importing a category or full catalog entrypoint:
 import { CardiologyIcon } from "@frontendxlab/medicons/specialties/cardiology";
 ```
 
+Import tiers, smallest first: single-icon path above, then category
+(`@frontendxlab/medicons/specialties`), then full root. Prefer the single-icon
+path for the smallest bundle. The package sets `"sideEffects": false` and
+ships side-effect-free ESM, so named imports tree-shake cleanly; avoid
+namespace imports (`import *`), which pull in all 219 icons (measured 3,176 B
+single-icon vs 124,072 B namespace import with esbuild, minified, react
+external). See `react/README.md` for the full table.
+
 The component API accepts standard SVG props, a forwarded ref, and:
 
 ```ts

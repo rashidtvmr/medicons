@@ -1,3 +1,0 @@
-"use client";
-import { createClinicalIcon } from "../../core.js";
-export const CardiothoracicSurgeryIcon = createClinicalIcon("cardiothoracic-surgery", "CardiothoracicSurgeryIcon", [{ "tag": "g", "attrs": { "transform": "translate(3 5) scale(0.76)" }, "children": [{ "tag": "path", "role": "body", "attrs": { "d": "M23 12 C19 6 9 10 8 20 C6 31 17 40 26 42 C33 36 40 29 39 21 C39 15 35 11 29 12 L29 6 L24 6 L24 12 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M17 12 L15 7 L19 5 L22 11" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M25 15 C20 18 20 24 25 30 C27 33 29 35 29 38 M22 23 L15 24 M25 29 L33 26 M25 16 L32 17" } }] }, { "tag": "path", "role": "line", "attrs": { "d": "M37 7 V41 M33 13 H41 M33 21 H41 M33 29 H41 M33 37 H41" } }]);

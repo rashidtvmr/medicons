@@ -1,3 +1,0 @@
-"use client";
-import { createClinicalIcon } from "../../core.js";
-export const DiabetologyIcon = createClinicalIcon("diabetology", "DiabetologyIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 7, "y": 10, "width": 20, "height": 32, "rx": 3 } }, { "tag": "rect", "role": "cut", "attrs": { "x": 11, "y": 15, "width": 12, "height": 10, "rx": 1 } }, { "tag": "circle", "role": "cut", "attrs": { "cx": 17, "cy": 33, "r": 3 } }, { "tag": "path", "role": "accent", "attrs": { "d": "M35 6 C31 12 29 15 29 18 C29 26 42 26 42 18 C42 15 39 10 35 6 Z" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M12 21 H16 L19 18 L22 21" } }]);
