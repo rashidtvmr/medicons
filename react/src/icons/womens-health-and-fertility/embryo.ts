@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const EmbryoIcon = createClinicalIcon("embryo", "EmbryoIcon", [{"tag":"circle","role":"body","attrs":{"cx":24,"cy":24,"r":18}},{"tag":"circle","role":"accent","attrs":{"cx":18,"cy":18,"r":6}},{"tag":"circle","role":"accent","attrs":{"cx":30,"cy":18,"r":6}},{"tag":"circle","role":"accent","attrs":{"cx":18,"cy":30,"r":6}},{"tag":"circle","role":"accent","attrs":{"cx":30,"cy":30,"r":6}},{"tag":"circle","role":"accent","attrs":{"cx":24,"cy":24,"r":4}},{"tag":"path","role":"cut","attrs":{"d":"M16 18 H19 M28 18 H31 M16 30 H19 M28 30 H31"}}]);

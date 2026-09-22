@@ -1,0 +1,10 @@
+export { OpConsultationIcon } from "../icons/patient-journey/op-consultation.js";
+export { InpatientAdmissionIcon } from "../icons/patient-journey/inpatient-admission.js";
+export { DayCareAdmissionIcon } from "../icons/patient-journey/day-care-admission.js";
+export { PreoperativeAssessmentIcon } from "../icons/patient-journey/preoperative-assessment.js";
+export { SurgeryScheduledIcon } from "../icons/patient-journey/surgery-scheduled.js";
+export { PostoperativeCareIcon } from "../icons/patient-journey/postoperative-care.js";
+export { PatientTransferIcon } from "../icons/patient-journey/patient-transfer.js";
+export { DischargeIcon } from "../icons/patient-journey/discharge.js";
+export { FollowUpConsultationIcon } from "../icons/patient-journey/follow-up-consultation.js";
+export { HomeHealthcareIcon } from "../icons/patient-journey/home-healthcare.js";

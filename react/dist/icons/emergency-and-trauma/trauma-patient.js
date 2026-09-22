@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const TraumaPatientIcon = createClinicalIcon("trauma-patient", "TraumaPatientIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 11, "y": 4, "width": 26, "height": 40, "rx": 7 } }, { "tag": "circle", "role": "accent", "attrs": { "cx": 24, "cy": 13, "r": 5 } }, { "tag": "path", "role": "accent", "attrs": { "d": "M17 22 H31 L32 39 H16 Z" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M13 22 H35 M13 32 H35 M21 10 H27 M24 23 V39" } }, { "tag": "path", "role": "line", "attrs": { "d": "M7 10 V17 M41 10 V17 M7 32 V39 M41 32 V39" } }]);

@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const NeurologyIcon = createClinicalIcon("neurology", "NeurologyIcon", [{"tag":"path","role":"body","attrs":{"d":"M24 8 C19 3 12 7 12 12 C5 12 4 22 8 25 C4 30 9 37 14 37 C15 44 22 43 24 39 C27 44 34 42 35 37 C42 36 43 30 40 25 C45 19 41 12 36 12 C36 6 29 3 24 8 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M24 9 L24 38 M12 13 C18 12 20 16 18 20 M8 25 C13 22 18 25 18 29 M14 37 C12 31 17 29 20 32 M36 13 C30 12 28 16 30 20 M40 25 C34 22 30 25 30 29 M34 37 C36 32 31 29 28 32"}},{"tag":"circle","role":"dot","attrs":{"cx":17,"cy":20,"r":1.6}},{"tag":"circle","role":"dot","attrs":{"cx":31,"cy":30,"r":1.6}}], "M12 13 C18 12 20 16 18 20 L24 24 L30 29 L34 37");

@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const HolterMonitorIcon = createClinicalIcon("holter-monitor", "HolterMonitorIcon", [{"tag":"path","role":"body","attrs":{"d":"M15 6 L20 9 H28 L33 6 L41 13 L35 20 L34 41 H14 L13 20 L7 13 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M20 10 Q24 16 28 10"}},{"tag":"rect","role":"accent","attrs":{"x":19,"y":24,"width":13,"height":14,"rx":2}},{"tag":"path","role":"cut","attrs":{"d":"M23 28 H28 M23 33 H25"}},{"tag":"path","role":"line","attrs":{"d":"M21 25 L17 19 M29 24 L32 18"}},{"tag":"circle","role":"cut","attrs":{"cx":16,"cy":18,"r":2}},{"tag":"circle","role":"cut","attrs":{"cx":32,"cy":17,"r":2}}]);

@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const CathLabSystemIcon = createClinicalIcon("cath-lab-system", "CathLabSystemIcon", [{"tag":"path","role":"body","attrs":{"d":"M7 4 H25 V10 H14 V17 H7 Z"}},{"tag":"rect","role":"accent","attrs":{"x":24,"y":5,"width":17,"height":12,"rx":2}},{"tag":"path","role":"cut","attrs":{"d":"M27 12 H31 L33 8 L36 14 L38 11"}},{"tag":"rect","role":"accent","attrs":{"x":7,"y":17,"width":11,"height":7,"rx":2}},{"tag":"path","role":"line","attrs":{"d":"M12 25 V29 M33 18 V23"}},{"tag":"path","role":"body","attrs":{"d":"M7 32 H40 L44 37 H7 Z"}},{"tag":"circle","role":"accent","attrs":{"cx":14,"cy":28,"r":3}},{"tag":"path","role":"line","attrs":{"d":"M19 30 H33 M11 38 V44 M39 38 V44"}}]);

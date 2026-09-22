@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const RadiationOncologyIcon = createClinicalIcon("radiation-oncology", "RadiationOncologyIcon", [{ "tag": "circle", "role": "body", "attrs": { "cx": 24, "cy": 26, "r": 9 } }, { "tag": "circle", "role": "accent", "attrs": { "cx": 24, "cy": 26, "r": 3 } }, { "tag": "path", "role": "accent", "attrs": { "d": "M5 12 L10 5 L20 17 L16 20 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M38 6 L43 12 L31 20 L28 16 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M21 38 L27 38 L28 44 H20 Z" } }, { "tag": "path", "role": "line", "attrs": { "d": "M12 15 L17 21 M37 15 L31 21 M24 35 V40" } }], "M9 8 L24 26 L40 10");

@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const ChildDevelopmentIcon = createClinicalIcon("child-development", "ChildDevelopmentIcon", [{ "tag": "circle", "role": "body", "attrs": { "cx": 14, "cy": 9, "r": 4 } }, { "tag": "path", "role": "line", "attrs": { "d": "M14 15 V27 L8 40 M14 27 L20 39 M14 19 L6 24 M14 19 L25 17" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 28, "y": 29, "width": 15, "height": 14, "rx": 2 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M35 30 V42 M28 36 H43" } }, { "tag": "circle", "role": "accent", "attrs": { "cx": 34, "cy": 17, "r": 4 } }, { "tag": "path", "role": "line", "attrs": { "d": "M32 7 V10 M41 12 L44 10" } }]);

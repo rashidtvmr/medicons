@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const EmergencyTriageIcon = createClinicalIcon("emergency-triage", "EmergencyTriageIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 6, "y": 6, "width": 36, "height": 37, "rx": 3 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M11 13 H15 M11 24 H15 M11 35 H15" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 20, "y": 10, "width": 17, "height": 5, "rx": 1 } }, { "tag": "rect", "role": "accent", "attrs": { "x": 20, "y": 21, "width": 12, "height": 5, "rx": 1 } }, { "tag": "rect", "role": "accent", "attrs": { "x": 20, "y": 32, "width": 7, "height": 5, "rx": 1 } }, { "tag": "path", "role": "line", "attrs": { "d": "M24 4 V8" } }]);

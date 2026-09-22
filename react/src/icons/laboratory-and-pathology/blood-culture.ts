@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const BloodCultureIcon = createClinicalIcon("blood-culture", "BloodCultureIcon", [{"tag":"rect","role":"body","attrs":{"x":7,"y":9,"width":12,"height":6,"rx":1}},{"tag":"rect","role":"body","attrs":{"x":6,"y":15,"width":14,"height":27,"rx":4}},{"tag":"rect","role":"body","attrs":{"x":29,"y":5,"width":12,"height":6,"rx":1}},{"tag":"rect","role":"body","attrs":{"x":28,"y":11,"width":14,"height":31,"rx":4}},{"tag":"path","role":"cut","attrs":{"d":"M9 24 H17 M31 20 H39 M10 32 L15 34 M32 29 L36 26 M33 35 L38 33"}}]);

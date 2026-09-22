@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const CodeBlueIcon = createClinicalIcon("code-blue", "CodeBlueIcon", [{"tag":"rect","role":"body","attrs":{"x":5,"y":5,"width":38,"height":28,"rx":3}},{"tag":"path","role":"cut","attrs":{"d":"M9 22 H15 L18 15 L23 27 L28 11 L32 22 H39"}},{"tag":"path","role":"line","attrs":{"d":"M10 34 V43 M38 34 V43 M11 38 H37"}},{"tag":"circle","role":"accent","attrs":{"cx":20,"cy":40,"r":2}},{"tag":"circle","role":"accent","attrs":{"cx":28,"cy":40,"r":2}}], "M9 22 H15 L18 15 L23 27 L28 11 L32 22 H39");

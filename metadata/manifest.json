@@ -1,0 +1,5519 @@
+{
+  "name": "Hospital Clinical Icons",
+  "version": "1.0.0",
+  "viewBox": "0 0 48 48",
+  "catalogEntries": 234,
+  "uniqueIcons": 219,
+  "staticVariants": [
+    "outline",
+    "solid",
+    "duotone"
+  ],
+  "variantAliases": {
+    "filled": "solid"
+  },
+  "beamIcons": 60,
+  "svgCount": 717,
+  "categories": [
+    {
+      "id": "specialties",
+      "name": "Specialties & departments",
+      "uniqueIcons": 30
+    },
+    {
+      "id": "critical-care-units",
+      "name": "Critical care & hospital units",
+      "uniqueIcons": 14
+    },
+    {
+      "id": "beds-and-patient-support",
+      "name": "Beds & patient support",
+      "uniqueIcons": 9
+    },
+    {
+      "id": "imaging-and-radiology",
+      "name": "Imaging & radiology",
+      "uniqueIcons": 12
+    },
+    {
+      "id": "cardiac-diagnostics",
+      "name": "Cardiac diagnostics",
+      "uniqueIcons": 8
+    },
+    {
+      "id": "laboratory-and-pathology",
+      "name": "Laboratory & pathology",
+      "uniqueIcons": 12
+    },
+    {
+      "id": "surgery-and-procedures",
+      "name": "Surgery & procedures",
+      "uniqueIcons": 13
+    },
+    {
+      "id": "orthopaedics",
+      "name": "Orthopaedics",
+      "uniqueIcons": 15
+    },
+    {
+      "id": "womens-health-and-fertility",
+      "name": "Women's health & fertility",
+      "uniqueIcons": 11
+    },
+    {
+      "id": "paediatrics-and-neonatal",
+      "name": "Paediatrics & neonatal",
+      "uniqueIcons": 6
+    },
+    {
+      "id": "anatomy",
+      "name": "Anatomy",
+      "uniqueIcons": 14
+    },
+    {
+      "id": "respiratory-and-sleep",
+      "name": "Respiratory medicine & sleep",
+      "uniqueIcons": 7
+    },
+    {
+      "id": "emergency-and-trauma",
+      "name": "Emergency & trauma",
+      "uniqueIcons": 10
+    },
+    {
+      "id": "rehabilitation",
+      "name": "Rehabilitation",
+      "uniqueIcons": 9
+    },
+    {
+      "id": "patient-journey",
+      "name": "Patient journey",
+      "uniqueIcons": 10
+    },
+    {
+      "id": "hospital-services",
+      "name": "Hospital services",
+      "uniqueIcons": 13
+    },
+    {
+      "id": "clinical-equipment",
+      "name": "Clinical equipment",
+      "uniqueIcons": 10
+    },
+    {
+      "id": "conditions",
+      "name": "Conditions",
+      "uniqueIcons": 16
+    }
+  ],
+  "icons": [
+    {
+      "slug": "cardiology",
+      "name": "Cardiology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        1
+      ],
+      "component": "CardiologyIcon",
+      "keywords": [
+        "Cardiology",
+        "cardiology"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/specialties/outline/cardiology.svg",
+        "solid": "svg/specialties/solid/cardiology.svg",
+        "duotone": "svg/specialties/duotone/cardiology.svg",
+        "beam": "svg/specialties/beam/cardiology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cardiothoracic-surgery",
+      "name": "Cardiothoracic Surgery",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        2
+      ],
+      "component": "CardiothoracicSurgeryIcon",
+      "keywords": [
+        "Cardiothoracic Surgery",
+        "cardiothoracic surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/cardiothoracic-surgery.svg",
+        "solid": "svg/specialties/solid/cardiothoracic-surgery.svg",
+        "duotone": "svg/specialties/duotone/cardiothoracic-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "vascular-surgery",
+      "name": "Vascular Surgery",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        3
+      ],
+      "component": "VascularSurgeryIcon",
+      "keywords": [
+        "Vascular Surgery",
+        "vascular surgery"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/specialties/outline/vascular-surgery.svg",
+        "solid": "svg/specialties/solid/vascular-surgery.svg",
+        "duotone": "svg/specialties/duotone/vascular-surgery.svg",
+        "beam": "svg/specialties/beam/vascular-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "neurology",
+      "name": "Neurology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        4
+      ],
+      "component": "NeurologyIcon",
+      "keywords": [
+        "Neurology",
+        "neurology"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/specialties/outline/neurology.svg",
+        "solid": "svg/specialties/solid/neurology.svg",
+        "duotone": "svg/specialties/duotone/neurology.svg",
+        "beam": "svg/specialties/beam/neurology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "neurosurgery",
+      "name": "Neurosurgery",
+      "category": "specialties",
+      "categories": [
+        "specialties",
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        5,
+        93
+      ],
+      "component": "NeurosurgeryIcon",
+      "keywords": [
+        "Neurosurgery",
+        "neurosurgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/neurosurgery.svg",
+        "solid": "svg/specialties/solid/neurosurgery.svg",
+        "duotone": "svg/specialties/duotone/neurosurgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "orthopaedics",
+      "name": "Orthopaedics",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        6
+      ],
+      "component": "OrthopaedicsIcon",
+      "keywords": [
+        "Orthopaedics",
+        "orthopaedics",
+        "orthopedics"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/orthopaedics.svg",
+        "solid": "svg/specialties/solid/orthopaedics.svg",
+        "duotone": "svg/specialties/duotone/orthopaedics.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "spine-surgery",
+      "name": "Spine Surgery",
+      "category": "specialties",
+      "categories": [
+        "specialties",
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        7,
+        95
+      ],
+      "component": "SpineSurgeryIcon",
+      "keywords": [
+        "Spine Surgery",
+        "spine surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/spine-surgery.svg",
+        "solid": "svg/specialties/solid/spine-surgery.svg",
+        "duotone": "svg/specialties/duotone/spine-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "joint-replacement",
+      "name": "Joint Replacement",
+      "category": "specialties",
+      "categories": [
+        "specialties",
+        "surgery-and-procedures"
+      ],
+      "aliases": [
+        "Joint Replacement Surgery"
+      ],
+      "catalogNumbers": [
+        8,
+        94
+      ],
+      "component": "JointReplacementIcon",
+      "keywords": [
+        "Joint Replacement",
+        "Joint Replacement Surgery",
+        "joint replacement"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/joint-replacement.svg",
+        "solid": "svg/specialties/solid/joint-replacement.svg",
+        "duotone": "svg/specialties/duotone/joint-replacement.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "sports-medicine",
+      "name": "Sports Medicine",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        9
+      ],
+      "component": "SportsMedicineIcon",
+      "keywords": [
+        "Sports Medicine",
+        "sports medicine"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/sports-medicine.svg",
+        "solid": "svg/specialties/solid/sports-medicine.svg",
+        "duotone": "svg/specialties/duotone/sports-medicine.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "general-surgery",
+      "name": "General Surgery",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        10
+      ],
+      "component": "GeneralSurgeryIcon",
+      "keywords": [
+        "General Surgery",
+        "general surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/general-surgery.svg",
+        "solid": "svg/specialties/solid/general-surgery.svg",
+        "duotone": "svg/specialties/duotone/general-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "gastroenterology",
+      "name": "Gastroenterology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        11
+      ],
+      "component": "GastroenterologyIcon",
+      "keywords": [
+        "Gastroenterology",
+        "gastroenterology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/gastroenterology.svg",
+        "solid": "svg/specialties/solid/gastroenterology.svg",
+        "duotone": "svg/specialties/duotone/gastroenterology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "gi-surgery",
+      "name": "GI Surgery",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        12
+      ],
+      "component": "GiSurgeryIcon",
+      "keywords": [
+        "GI Surgery",
+        "gi surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/gi-surgery.svg",
+        "solid": "svg/specialties/solid/gi-surgery.svg",
+        "duotone": "svg/specialties/duotone/gi-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "hepatology",
+      "name": "Hepatology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        13
+      ],
+      "component": "HepatologyIcon",
+      "keywords": [
+        "Hepatology",
+        "hepatology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/hepatology.svg",
+        "solid": "svg/specialties/solid/hepatology.svg",
+        "duotone": "svg/specialties/duotone/hepatology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "nephrology",
+      "name": "Nephrology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        14
+      ],
+      "component": "NephrologyIcon",
+      "keywords": [
+        "Nephrology",
+        "nephrology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/nephrology.svg",
+        "solid": "svg/specialties/solid/nephrology.svg",
+        "duotone": "svg/specialties/duotone/nephrology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "urology",
+      "name": "Urology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        15
+      ],
+      "component": "UrologyIcon",
+      "keywords": [
+        "Urology",
+        "urology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/urology.svg",
+        "solid": "svg/specialties/solid/urology.svg",
+        "duotone": "svg/specialties/duotone/urology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pulmonology",
+      "name": "Pulmonology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        16
+      ],
+      "component": "PulmonologyIcon",
+      "keywords": [
+        "Pulmonology",
+        "pulmonology"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/specialties/outline/pulmonology.svg",
+        "solid": "svg/specialties/solid/pulmonology.svg",
+        "duotone": "svg/specialties/duotone/pulmonology.svg",
+        "beam": "svg/specialties/beam/pulmonology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "endocrinology",
+      "name": "Endocrinology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        17
+      ],
+      "component": "EndocrinologyIcon",
+      "keywords": [
+        "Endocrinology",
+        "endocrinology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/endocrinology.svg",
+        "solid": "svg/specialties/solid/endocrinology.svg",
+        "duotone": "svg/specialties/duotone/endocrinology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "diabetology",
+      "name": "Diabetology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        18
+      ],
+      "component": "DiabetologyIcon",
+      "keywords": [
+        "Diabetology",
+        "diabetology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/diabetology.svg",
+        "solid": "svg/specialties/solid/diabetology.svg",
+        "duotone": "svg/specialties/duotone/diabetology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "rheumatology",
+      "name": "Rheumatology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        19
+      ],
+      "component": "RheumatologyIcon",
+      "keywords": [
+        "Rheumatology",
+        "rheumatology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/rheumatology.svg",
+        "solid": "svg/specialties/solid/rheumatology.svg",
+        "duotone": "svg/specialties/duotone/rheumatology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "medical-oncology",
+      "name": "Medical Oncology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        20
+      ],
+      "component": "MedicalOncologyIcon",
+      "keywords": [
+        "Medical Oncology",
+        "medical oncology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/medical-oncology.svg",
+        "solid": "svg/specialties/solid/medical-oncology.svg",
+        "duotone": "svg/specialties/duotone/medical-oncology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "surgical-oncology",
+      "name": "Surgical Oncology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        21
+      ],
+      "component": "SurgicalOncologyIcon",
+      "keywords": [
+        "Surgical Oncology",
+        "surgical oncology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/surgical-oncology.svg",
+        "solid": "svg/specialties/solid/surgical-oncology.svg",
+        "duotone": "svg/specialties/duotone/surgical-oncology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "radiation-oncology",
+      "name": "Radiation Oncology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        22
+      ],
+      "component": "RadiationOncologyIcon",
+      "keywords": [
+        "Radiation Oncology",
+        "radiation oncology"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/specialties/outline/radiation-oncology.svg",
+        "solid": "svg/specialties/solid/radiation-oncology.svg",
+        "duotone": "svg/specialties/duotone/radiation-oncology.svg",
+        "beam": "svg/specialties/beam/radiation-oncology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "haematology",
+      "name": "Haematology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        23
+      ],
+      "component": "HaematologyIcon",
+      "keywords": [
+        "Haematology",
+        "haematology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/haematology.svg",
+        "solid": "svg/specialties/solid/haematology.svg",
+        "duotone": "svg/specialties/duotone/haematology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "obstetrics-gynaecology",
+      "name": "Obstetrics & Gynaecology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        24
+      ],
+      "component": "ObstetricsGynaecologyIcon",
+      "keywords": [
+        "Obstetrics & Gynaecology",
+        "obstetrics gynaecology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/obstetrics-gynaecology.svg",
+        "solid": "svg/specialties/solid/obstetrics-gynaecology.svg",
+        "duotone": "svg/specialties/duotone/obstetrics-gynaecology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "fertility-ivf",
+      "name": "Fertility / IVF",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        25
+      ],
+      "component": "FertilityIvfIcon",
+      "keywords": [
+        "Fertility / IVF",
+        "fertility ivf"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/specialties/outline/fertility-ivf.svg",
+        "solid": "svg/specialties/solid/fertility-ivf.svg",
+        "duotone": "svg/specialties/duotone/fertility-ivf.svg",
+        "beam": "svg/specialties/beam/fertility-ivf.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "paediatrics",
+      "name": "Paediatrics",
+      "category": "specialties",
+      "categories": [
+        "specialties",
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [
+        "Paediatric Care"
+      ],
+      "catalogNumbers": [
+        26,
+        135
+      ],
+      "component": "PaediatricsIcon",
+      "keywords": [
+        "Paediatric Care",
+        "Paediatrics",
+        "paediatrics"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/paediatrics.svg",
+        "solid": "svg/specialties/solid/paediatrics.svg",
+        "duotone": "svg/specialties/duotone/paediatrics.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "neonatology",
+      "name": "Neonatology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        27
+      ],
+      "component": "NeonatologyIcon",
+      "keywords": [
+        "Neonatology",
+        "neonatology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/neonatology.svg",
+        "solid": "svg/specialties/solid/neonatology.svg",
+        "duotone": "svg/specialties/duotone/neonatology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ent",
+      "name": "ENT",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        28
+      ],
+      "component": "EntIcon",
+      "keywords": [
+        "ENT",
+        "ear nose throat",
+        "ent",
+        "otolaryngology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/ent.svg",
+        "solid": "svg/specialties/solid/ent.svg",
+        "duotone": "svg/specialties/duotone/ent.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ophthalmology",
+      "name": "Ophthalmology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        29
+      ],
+      "component": "OphthalmologyIcon",
+      "keywords": [
+        "Ophthalmology",
+        "ophthalmology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/ophthalmology.svg",
+        "solid": "svg/specialties/solid/ophthalmology.svg",
+        "duotone": "svg/specialties/duotone/ophthalmology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "dermatology",
+      "name": "Dermatology",
+      "category": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        30
+      ],
+      "component": "DermatologyIcon",
+      "keywords": [
+        "Dermatology",
+        "dermatology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/specialties/outline/dermatology.svg",
+        "solid": "svg/specialties/solid/dermatology.svg",
+        "duotone": "svg/specialties/duotone/dermatology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "icu",
+      "name": "ICU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        31
+      ],
+      "component": "IcuIcon",
+      "keywords": [
+        "ICU",
+        "icu",
+        "intensive care unit"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/icu.svg",
+        "solid": "svg/critical-care-units/solid/icu.svg",
+        "duotone": "svg/critical-care-units/duotone/icu.svg",
+        "beam": "svg/critical-care-units/beam/icu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "micu",
+      "name": "MICU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        32
+      ],
+      "component": "MicuIcon",
+      "keywords": [
+        "MICU",
+        "medical intensive care unit",
+        "micu"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/micu.svg",
+        "solid": "svg/critical-care-units/solid/micu.svg",
+        "duotone": "svg/critical-care-units/duotone/micu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "sicu",
+      "name": "SICU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        33
+      ],
+      "component": "SicuIcon",
+      "keywords": [
+        "SICU",
+        "sicu",
+        "surgical intensive care unit"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/sicu.svg",
+        "solid": "svg/critical-care-units/solid/sicu.svg",
+        "duotone": "svg/critical-care-units/duotone/sicu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ccu",
+      "name": "CCU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        34
+      ],
+      "component": "CcuIcon",
+      "keywords": [
+        "CCU",
+        "cardiac care unit",
+        "ccu",
+        "coronary care unit"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/ccu.svg",
+        "solid": "svg/critical-care-units/solid/ccu.svg",
+        "duotone": "svg/critical-care-units/duotone/ccu.svg",
+        "beam": "svg/critical-care-units/beam/ccu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "nicu",
+      "name": "NICU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        35
+      ],
+      "component": "NicuIcon",
+      "keywords": [
+        "NICU",
+        "neonatal intensive care unit",
+        "nicu"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/nicu.svg",
+        "solid": "svg/critical-care-units/solid/nicu.svg",
+        "duotone": "svg/critical-care-units/duotone/nicu.svg",
+        "beam": "svg/critical-care-units/beam/nicu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "picu",
+      "name": "PICU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        36
+      ],
+      "component": "PicuIcon",
+      "keywords": [
+        "PICU",
+        "paediatric intensive care unit",
+        "pediatric intensive care unit",
+        "picu"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/picu.svg",
+        "solid": "svg/critical-care-units/solid/picu.svg",
+        "duotone": "svg/critical-care-units/duotone/picu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "hdu",
+      "name": "HDU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        37
+      ],
+      "component": "HduIcon",
+      "keywords": [
+        "HDU",
+        "hdu",
+        "high dependency unit"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/hdu.svg",
+        "solid": "svg/critical-care-units/solid/hdu.svg",
+        "duotone": "svg/critical-care-units/duotone/hdu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "emergency-department",
+      "name": "Emergency Department",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        38
+      ],
+      "component": "EmergencyDepartmentIcon",
+      "keywords": [
+        "Emergency Department",
+        "emergency department"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/emergency-department.svg",
+        "solid": "svg/critical-care-units/solid/emergency-department.svg",
+        "duotone": "svg/critical-care-units/duotone/emergency-department.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "trauma-centre",
+      "name": "Trauma Centre",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        39
+      ],
+      "component": "TraumaCentreIcon",
+      "keywords": [
+        "Trauma Centre",
+        "trauma centre"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/trauma-centre.svg",
+        "solid": "svg/critical-care-units/solid/trauma-centre.svg",
+        "duotone": "svg/critical-care-units/duotone/trauma-centre.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "operation-theatre",
+      "name": "Operation Theatre",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        40
+      ],
+      "component": "OperationTheatreIcon",
+      "keywords": [
+        "Operation Theatre",
+        "operation theatre"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/operation-theatre.svg",
+        "solid": "svg/critical-care-units/solid/operation-theatre.svg",
+        "duotone": "svg/critical-care-units/duotone/operation-theatre.svg",
+        "beam": "svg/critical-care-units/beam/operation-theatre.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pacu",
+      "name": "Recovery / PACU",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        41
+      ],
+      "component": "PacuIcon",
+      "keywords": [
+        "Recovery / PACU",
+        "pacu",
+        "post anaesthesia care unit",
+        "post anesthesia care unit",
+        "recovery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/pacu.svg",
+        "solid": "svg/critical-care-units/solid/pacu.svg",
+        "duotone": "svg/critical-care-units/duotone/pacu.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "labour-room",
+      "name": "Labour Room",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        42
+      ],
+      "component": "LabourRoomIcon",
+      "keywords": [
+        "Labour Room",
+        "labour room"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/labour-room.svg",
+        "solid": "svg/critical-care-units/solid/labour-room.svg",
+        "duotone": "svg/critical-care-units/duotone/labour-room.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "dialysis-unit",
+      "name": "Dialysis Unit",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        43
+      ],
+      "component": "DialysisUnitIcon",
+      "keywords": [
+        "Dialysis Unit",
+        "dialysis unit"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/dialysis-unit.svg",
+        "solid": "svg/critical-care-units/solid/dialysis-unit.svg",
+        "duotone": "svg/critical-care-units/duotone/dialysis-unit.svg",
+        "beam": "svg/critical-care-units/beam/dialysis-unit.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "isolation-unit",
+      "name": "Isolation Unit",
+      "category": "critical-care-units",
+      "categories": [
+        "critical-care-units"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        44
+      ],
+      "component": "IsolationUnitIcon",
+      "keywords": [
+        "Isolation Unit",
+        "isolation unit"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/critical-care-units/outline/isolation-unit.svg",
+        "solid": "svg/critical-care-units/solid/isolation-unit.svg",
+        "duotone": "svg/critical-care-units/duotone/isolation-unit.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "icu-bed",
+      "name": "ICU Bed",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        45
+      ],
+      "component": "IcuBedIcon",
+      "keywords": [
+        "ICU Bed",
+        "icu bed"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/icu-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/icu-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/icu-bed.svg",
+        "beam": "svg/beds-and-patient-support/beam/icu-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ventilated-patient-bed",
+      "name": "Ventilated Patient Bed",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        46
+      ],
+      "component": "VentilatedPatientBedIcon",
+      "keywords": [
+        "Ventilated Patient Bed",
+        "ventilated patient bed"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/ventilated-patient-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/ventilated-patient-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/ventilated-patient-bed.svg",
+        "beam": "svg/beds-and-patient-support/beam/ventilated-patient-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "monitored-bed",
+      "name": "Bed with Patient Monitor",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        47
+      ],
+      "component": "MonitoredBedIcon",
+      "keywords": [
+        "Bed with Patient Monitor",
+        "monitored bed"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/monitored-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/monitored-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/monitored-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "iv-bed",
+      "name": "Bed with IV",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        48
+      ],
+      "component": "IvBedIcon",
+      "keywords": [
+        "Bed with IV",
+        "iv bed"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/iv-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/iv-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/iv-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "oxygen-bed",
+      "name": "Bed with Oxygen",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        49
+      ],
+      "component": "OxygenBedIcon",
+      "keywords": [
+        "Bed with Oxygen",
+        "oxygen bed"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/oxygen-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/oxygen-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/oxygen-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "neonatal-incubator",
+      "name": "Neonatal Incubator",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support",
+        "paediatrics-and-neonatal",
+        "clinical-equipment"
+      ],
+      "aliases": [
+        "Baby Incubator",
+        "Incubator"
+      ],
+      "catalogNumbers": [
+        50,
+        132,
+        215
+      ],
+      "component": "NeonatalIncubatorIcon",
+      "keywords": [
+        "Baby Incubator",
+        "Incubator",
+        "Neonatal Incubator",
+        "neonatal incubator"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/neonatal-incubator.svg",
+        "solid": "svg/beds-and-patient-support/solid/neonatal-incubator.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/neonatal-incubator.svg",
+        "beam": "svg/beds-and-patient-support/beam/neonatal-incubator.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "delivery-bed",
+      "name": "Labour / Delivery Bed",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        51
+      ],
+      "component": "DeliveryBedIcon",
+      "keywords": [
+        "Labour / Delivery Bed",
+        "delivery bed"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/delivery-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/delivery-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/delivery-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "dialysis-chair",
+      "name": "Dialysis Chair",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        52
+      ],
+      "component": "DialysisChairIcon",
+      "keywords": [
+        "Dialysis Chair",
+        "dialysis chair"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/dialysis-chair.svg",
+        "solid": "svg/beds-and-patient-support/solid/dialysis-chair.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/dialysis-chair.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "recovery-bed",
+      "name": "Recovery Bed",
+      "category": "beds-and-patient-support",
+      "categories": [
+        "beds-and-patient-support"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        53
+      ],
+      "component": "RecoveryBedIcon",
+      "keywords": [
+        "Recovery Bed",
+        "recovery bed"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/beds-and-patient-support/outline/recovery-bed.svg",
+        "solid": "svg/beds-and-patient-support/solid/recovery-bed.svg",
+        "duotone": "svg/beds-and-patient-support/duotone/recovery-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "x-ray-machine",
+      "name": "X-Ray Machine",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        54
+      ],
+      "component": "XRayMachineIcon",
+      "keywords": [
+        "X-Ray Machine",
+        "x ray machine"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/x-ray-machine.svg",
+        "solid": "svg/imaging-and-radiology/solid/x-ray-machine.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/x-ray-machine.svg",
+        "beam": "svg/imaging-and-radiology/beam/x-ray-machine.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "chest-x-ray",
+      "name": "Chest X-Ray",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        55
+      ],
+      "component": "ChestXRayIcon",
+      "keywords": [
+        "Chest X-Ray",
+        "chest x ray"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/chest-x-ray.svg",
+        "solid": "svg/imaging-and-radiology/solid/chest-x-ray.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/chest-x-ray.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "bone-x-ray",
+      "name": "Bone X-Ray",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        56
+      ],
+      "component": "BoneXRayIcon",
+      "keywords": [
+        "Bone X-Ray",
+        "bone x ray"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/bone-x-ray.svg",
+        "solid": "svg/imaging-and-radiology/solid/bone-x-ray.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/bone-x-ray.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ct-scanner",
+      "name": "CT Scanner",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        57
+      ],
+      "component": "CtScannerIcon",
+      "keywords": [
+        "CT Scanner",
+        "computed tomography",
+        "ct scanner"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/ct-scanner.svg",
+        "solid": "svg/imaging-and-radiology/solid/ct-scanner.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/ct-scanner.svg",
+        "beam": "svg/imaging-and-radiology/beam/ct-scanner.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "mri-scanner",
+      "name": "MRI Scanner",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        58
+      ],
+      "component": "MriScannerIcon",
+      "keywords": [
+        "MRI Scanner",
+        "magnetic resonance imaging",
+        "mri scanner"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/mri-scanner.svg",
+        "solid": "svg/imaging-and-radiology/solid/mri-scanner.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/mri-scanner.svg",
+        "beam": "svg/imaging-and-radiology/beam/mri-scanner.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ultrasound",
+      "name": "Ultrasound",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        59
+      ],
+      "component": "UltrasoundIcon",
+      "keywords": [
+        "Ultrasound",
+        "ultrasound"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/ultrasound.svg",
+        "solid": "svg/imaging-and-radiology/solid/ultrasound.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/ultrasound.svg",
+        "beam": "svg/imaging-and-radiology/beam/ultrasound.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pregnancy-ultrasound",
+      "name": "Pregnancy Ultrasound",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        60
+      ],
+      "component": "PregnancyUltrasoundIcon",
+      "keywords": [
+        "Pregnancy Ultrasound",
+        "pregnancy ultrasound"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/pregnancy-ultrasound.svg",
+        "solid": "svg/imaging-and-radiology/solid/pregnancy-ultrasound.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/pregnancy-ultrasound.svg",
+        "beam": "svg/imaging-and-radiology/beam/pregnancy-ultrasound.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "mammography",
+      "name": "Mammography",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        61
+      ],
+      "component": "MammographyIcon",
+      "keywords": [
+        "Mammography",
+        "mammography"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/mammography.svg",
+        "solid": "svg/imaging-and-radiology/solid/mammography.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/mammography.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pet-ct",
+      "name": "PET-CT",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        62
+      ],
+      "component": "PetCtIcon",
+      "keywords": [
+        "PET-CT",
+        "pet ct",
+        "positron emission tomography"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/pet-ct.svg",
+        "solid": "svg/imaging-and-radiology/solid/pet-ct.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/pet-ct.svg",
+        "beam": "svg/imaging-and-radiology/beam/pet-ct.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "c-arm",
+      "name": "C-Arm",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology",
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        63,
+        214
+      ],
+      "component": "CArmIcon",
+      "keywords": [
+        "C-Arm",
+        "c arm",
+        "mobile fluoroscopy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/c-arm.svg",
+        "solid": "svg/imaging-and-radiology/solid/c-arm.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/c-arm.svg",
+        "beam": "svg/imaging-and-radiology/beam/c-arm.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "fluoroscopy",
+      "name": "Fluoroscopy",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        64
+      ],
+      "component": "FluoroscopyIcon",
+      "keywords": [
+        "Fluoroscopy",
+        "fluoroscopy"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/fluoroscopy.svg",
+        "solid": "svg/imaging-and-radiology/solid/fluoroscopy.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/fluoroscopy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "interventional-radiology",
+      "name": "Interventional Radiology",
+      "category": "imaging-and-radiology",
+      "categories": [
+        "imaging-and-radiology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        65
+      ],
+      "component": "InterventionalRadiologyIcon",
+      "keywords": [
+        "Interventional Radiology",
+        "interventional radiology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/imaging-and-radiology/outline/interventional-radiology.svg",
+        "solid": "svg/imaging-and-radiology/solid/interventional-radiology.svg",
+        "duotone": "svg/imaging-and-radiology/duotone/interventional-radiology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "twelve-lead-ecg",
+      "name": "12-Lead ECG",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        66
+      ],
+      "component": "TwelveLeadEcgIcon",
+      "keywords": [
+        "12-Lead ECG",
+        "ecg",
+        "ekg",
+        "electrocardiography",
+        "twelve lead ecg"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/twelve-lead-ecg.svg",
+        "solid": "svg/cardiac-diagnostics/solid/twelve-lead-ecg.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/twelve-lead-ecg.svg",
+        "beam": "svg/cardiac-diagnostics/beam/twelve-lead-ecg.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "echocardiography",
+      "name": "Echocardiography",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        67
+      ],
+      "component": "EchocardiographyIcon",
+      "keywords": [
+        "Echocardiography",
+        "echocardiography"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/echocardiography.svg",
+        "solid": "svg/cardiac-diagnostics/solid/echocardiography.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/echocardiography.svg",
+        "beam": "svg/cardiac-diagnostics/beam/echocardiography.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "holter-monitor",
+      "name": "Holter Monitor",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        68
+      ],
+      "component": "HolterMonitorIcon",
+      "keywords": [
+        "Holter Monitor",
+        "holter monitor"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/holter-monitor.svg",
+        "solid": "svg/cardiac-diagnostics/solid/holter-monitor.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/holter-monitor.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "treadmill-test",
+      "name": "Treadmill Test / TMT",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        69
+      ],
+      "component": "TreadmillTestIcon",
+      "keywords": [
+        "Treadmill Test / TMT",
+        "exercise stress test",
+        "tmt",
+        "treadmill test"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/treadmill-test.svg",
+        "solid": "svg/cardiac-diagnostics/solid/treadmill-test.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/treadmill-test.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "coronary-angiography",
+      "name": "Coronary Angiography",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        70
+      ],
+      "component": "CoronaryAngiographyIcon",
+      "keywords": [
+        "Coronary Angiography",
+        "coronary angiography"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/coronary-angiography.svg",
+        "solid": "svg/cardiac-diagnostics/solid/coronary-angiography.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/coronary-angiography.svg",
+        "beam": "svg/cardiac-diagnostics/beam/coronary-angiography.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cardiac-catheterisation",
+      "name": "Cardiac Catheterisation",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        71
+      ],
+      "component": "CardiacCatheterisationIcon",
+      "keywords": [
+        "Cardiac Catheterisation",
+        "cardiac catheterisation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/cardiac-catheterisation.svg",
+        "solid": "svg/cardiac-diagnostics/solid/cardiac-catheterisation.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/cardiac-catheterisation.svg",
+        "beam": "svg/cardiac-diagnostics/beam/cardiac-catheterisation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pacemaker",
+      "name": "Pacemaker",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        72
+      ],
+      "component": "PacemakerIcon",
+      "keywords": [
+        "Pacemaker",
+        "pacemaker"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/pacemaker.svg",
+        "solid": "svg/cardiac-diagnostics/solid/pacemaker.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/pacemaker.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "defibrillation",
+      "name": "Defibrillation",
+      "category": "cardiac-diagnostics",
+      "categories": [
+        "cardiac-diagnostics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        73
+      ],
+      "component": "DefibrillationIcon",
+      "keywords": [
+        "Defibrillation",
+        "defibrillation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/cardiac-diagnostics/outline/defibrillation.svg",
+        "solid": "svg/cardiac-diagnostics/solid/defibrillation.svg",
+        "duotone": "svg/cardiac-diagnostics/duotone/defibrillation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "blood-sample-collection",
+      "name": "Blood Sample Collection",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        74
+      ],
+      "component": "BloodSampleCollectionIcon",
+      "keywords": [
+        "Blood Sample Collection",
+        "blood sample collection"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/blood-sample-collection.svg",
+        "solid": "svg/laboratory-and-pathology/solid/blood-sample-collection.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/blood-sample-collection.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "vacutainer-set",
+      "name": "Vacutainer Set",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        75
+      ],
+      "component": "VacutainerSetIcon",
+      "keywords": [
+        "Vacutainer Set",
+        "vacutainer set"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/vacutainer-set.svg",
+        "solid": "svg/laboratory-and-pathology/solid/vacutainer-set.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/vacutainer-set.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "blood-culture",
+      "name": "Blood Culture",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        76
+      ],
+      "component": "BloodCultureIcon",
+      "keywords": [
+        "Blood Culture",
+        "blood culture"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/blood-culture.svg",
+        "solid": "svg/laboratory-and-pathology/solid/blood-culture.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/blood-culture.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "histopathology",
+      "name": "Histopathology",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        77
+      ],
+      "component": "HistopathologyIcon",
+      "keywords": [
+        "Histopathology",
+        "histopathology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/histopathology.svg",
+        "solid": "svg/laboratory-and-pathology/solid/histopathology.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/histopathology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "biopsy-sample",
+      "name": "Biopsy Sample",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        78
+      ],
+      "component": "BiopsySampleIcon",
+      "keywords": [
+        "Biopsy Sample",
+        "biopsy sample"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/biopsy-sample.svg",
+        "solid": "svg/laboratory-and-pathology/solid/biopsy-sample.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/biopsy-sample.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cytology",
+      "name": "Cytology",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        79
+      ],
+      "component": "CytologyIcon",
+      "keywords": [
+        "Cytology",
+        "cytology"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/cytology.svg",
+        "solid": "svg/laboratory-and-pathology/solid/cytology.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/cytology.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pcr",
+      "name": "PCR / Molecular Diagnostics",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        80
+      ],
+      "component": "PcrIcon",
+      "keywords": [
+        "PCR / Molecular Diagnostics",
+        "molecular diagnostics",
+        "pcr",
+        "polymerase chain reaction"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/pcr.svg",
+        "solid": "svg/laboratory-and-pathology/solid/pcr.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/pcr.svg",
+        "beam": "svg/laboratory-and-pathology/beam/pcr.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "blood-cell-analysis",
+      "name": "Blood Cell Analysis",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        81
+      ],
+      "component": "BloodCellAnalysisIcon",
+      "keywords": [
+        "Blood Cell Analysis",
+        "blood cell analysis"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/blood-cell-analysis.svg",
+        "solid": "svg/laboratory-and-pathology/solid/blood-cell-analysis.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/blood-cell-analysis.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "microbiology-culture",
+      "name": "Microbiology Culture",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        82
+      ],
+      "component": "MicrobiologyCultureIcon",
+      "keywords": [
+        "Microbiology Culture",
+        "microbiology culture"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/microbiology-culture.svg",
+        "solid": "svg/laboratory-and-pathology/solid/microbiology-culture.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/microbiology-culture.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "blood-bank",
+      "name": "Blood Bank",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        83
+      ],
+      "component": "BloodBankIcon",
+      "keywords": [
+        "Blood Bank",
+        "blood bank"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/blood-bank.svg",
+        "solid": "svg/laboratory-and-pathology/solid/blood-bank.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/blood-bank.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "blood-transfusion",
+      "name": "Blood Transfusion",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        84
+      ],
+      "component": "BloodTransfusionIcon",
+      "keywords": [
+        "Blood Transfusion",
+        "blood transfusion"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/blood-transfusion.svg",
+        "solid": "svg/laboratory-and-pathology/solid/blood-transfusion.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/blood-transfusion.svg",
+        "beam": "svg/laboratory-and-pathology/beam/blood-transfusion.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pathology-slide",
+      "name": "Pathology Slide",
+      "category": "laboratory-and-pathology",
+      "categories": [
+        "laboratory-and-pathology"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        85
+      ],
+      "component": "PathologySlideIcon",
+      "keywords": [
+        "Pathology Slide",
+        "pathology slide"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/laboratory-and-pathology/outline/pathology-slide.svg",
+        "solid": "svg/laboratory-and-pathology/solid/pathology-slide.svg",
+        "duotone": "svg/laboratory-and-pathology/duotone/pathology-slide.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "laparoscopic-surgery",
+      "name": "Laparoscopic Surgery",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        86
+      ],
+      "component": "LaparoscopicSurgeryIcon",
+      "keywords": [
+        "Laparoscopic Surgery",
+        "laparoscopic surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/laparoscopic-surgery.svg",
+        "solid": "svg/surgery-and-procedures/solid/laparoscopic-surgery.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/laparoscopic-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "robotic-surgery",
+      "name": "Robotic Surgery",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        87
+      ],
+      "component": "RoboticSurgeryIcon",
+      "keywords": [
+        "Robotic Surgery",
+        "robotic surgery"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/robotic-surgery.svg",
+        "solid": "svg/surgery-and-procedures/solid/robotic-surgery.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/robotic-surgery.svg",
+        "beam": "svg/surgery-and-procedures/beam/robotic-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "arthroscopy",
+      "name": "Arthroscopy",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        88
+      ],
+      "component": "ArthroscopyIcon",
+      "keywords": [
+        "Arthroscopy",
+        "arthroscopy"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/arthroscopy.svg",
+        "solid": "svg/surgery-and-procedures/solid/arthroscopy.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/arthroscopy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "endoscopy",
+      "name": "Endoscopy",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        89
+      ],
+      "component": "EndoscopyIcon",
+      "keywords": [
+        "Endoscopy",
+        "endoscopy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/endoscopy.svg",
+        "solid": "svg/surgery-and-procedures/solid/endoscopy.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/endoscopy.svg",
+        "beam": "svg/surgery-and-procedures/beam/endoscopy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "colonoscopy",
+      "name": "Colonoscopy",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        90
+      ],
+      "component": "ColonoscopyIcon",
+      "keywords": [
+        "Colonoscopy",
+        "colonoscopy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/colonoscopy.svg",
+        "solid": "svg/surgery-and-procedures/solid/colonoscopy.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/colonoscopy.svg",
+        "beam": "svg/surgery-and-procedures/beam/colonoscopy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "bronchoscopy",
+      "name": "Bronchoscopy",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures",
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        91,
+        158
+      ],
+      "component": "BronchoscopyIcon",
+      "keywords": [
+        "Bronchoscopy",
+        "bronchoscopy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/bronchoscopy.svg",
+        "solid": "svg/surgery-and-procedures/solid/bronchoscopy.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/bronchoscopy.svg",
+        "beam": "svg/surgery-and-procedures/beam/bronchoscopy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cardiac-surgery",
+      "name": "Cardiac Surgery",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        92
+      ],
+      "component": "CardiacSurgeryIcon",
+      "keywords": [
+        "Cardiac Surgery",
+        "cardiac surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/cardiac-surgery.svg",
+        "solid": "svg/surgery-and-procedures/solid/cardiac-surgery.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/cardiac-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "fracture-fixation",
+      "name": "Fracture Fixation",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures",
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        96,
+        114
+      ],
+      "component": "FractureFixationIcon",
+      "keywords": [
+        "Fracture Fixation",
+        "fracture fixation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/fracture-fixation.svg",
+        "solid": "svg/surgery-and-procedures/solid/fracture-fixation.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/fracture-fixation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "caesarean-section",
+      "name": "Caesarean Section",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures",
+        "womens-health-and-fertility"
+      ],
+      "aliases": [
+        "Caesarean Delivery"
+      ],
+      "catalogNumbers": [
+        97,
+        124
+      ],
+      "component": "CaesareanSectionIcon",
+      "keywords": [
+        "Caesarean Delivery",
+        "Caesarean Section",
+        "caesarean section"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/caesarean-section.svg",
+        "solid": "svg/surgery-and-procedures/solid/caesarean-section.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/caesarean-section.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "organ-transplant",
+      "name": "Organ Transplant",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures",
+        "hospital-services"
+      ],
+      "aliases": [
+        "Organ Transplant Program"
+      ],
+      "catalogNumbers": [
+        98,
+        203
+      ],
+      "component": "OrganTransplantIcon",
+      "keywords": [
+        "Organ Transplant",
+        "Organ Transplant Program",
+        "organ transplant"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/organ-transplant.svg",
+        "solid": "svg/surgery-and-procedures/solid/organ-transplant.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/organ-transplant.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "angioplasty-stent",
+      "name": "Angioplasty / Stent",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        99
+      ],
+      "component": "AngioplastyStentIcon",
+      "keywords": [
+        "Angioplasty / Stent",
+        "angioplasty stent"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/angioplasty-stent.svg",
+        "solid": "svg/surgery-and-procedures/solid/angioplasty-stent.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/angioplasty-stent.svg",
+        "beam": "svg/surgery-and-procedures/beam/angioplasty-stent.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "dialysis",
+      "name": "Dialysis",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        100
+      ],
+      "component": "DialysisIcon",
+      "keywords": [
+        "Dialysis",
+        "dialysis"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/dialysis.svg",
+        "solid": "svg/surgery-and-procedures/solid/dialysis.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/dialysis.svg",
+        "beam": "svg/surgery-and-procedures/beam/dialysis.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "radiation-therapy",
+      "name": "Radiation Therapy",
+      "category": "surgery-and-procedures",
+      "categories": [
+        "surgery-and-procedures"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        101
+      ],
+      "component": "RadiationTherapyIcon",
+      "keywords": [
+        "Radiation Therapy",
+        "radiation therapy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/surgery-and-procedures/outline/radiation-therapy.svg",
+        "solid": "svg/surgery-and-procedures/solid/radiation-therapy.svg",
+        "duotone": "svg/surgery-and-procedures/duotone/radiation-therapy.svg",
+        "beam": "svg/surgery-and-procedures/beam/radiation-therapy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "shoulder-joint",
+      "name": "Shoulder Joint",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        102
+      ],
+      "component": "ShoulderJointIcon",
+      "keywords": [
+        "Shoulder Joint",
+        "shoulder joint"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/shoulder-joint.svg",
+        "solid": "svg/orthopaedics/solid/shoulder-joint.svg",
+        "duotone": "svg/orthopaedics/duotone/shoulder-joint.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "shoulder-replacement",
+      "name": "Shoulder Replacement",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        103
+      ],
+      "component": "ShoulderReplacementIcon",
+      "keywords": [
+        "Shoulder Replacement",
+        "shoulder replacement"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/shoulder-replacement.svg",
+        "solid": "svg/orthopaedics/solid/shoulder-replacement.svg",
+        "duotone": "svg/orthopaedics/duotone/shoulder-replacement.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "elbow-joint",
+      "name": "Elbow Joint",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        104
+      ],
+      "component": "ElbowJointIcon",
+      "keywords": [
+        "Elbow Joint",
+        "elbow joint"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/elbow-joint.svg",
+        "solid": "svg/orthopaedics/solid/elbow-joint.svg",
+        "duotone": "svg/orthopaedics/duotone/elbow-joint.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "wrist-joint",
+      "name": "Wrist Joint",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        105
+      ],
+      "component": "WristJointIcon",
+      "keywords": [
+        "Wrist Joint",
+        "wrist joint"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/wrist-joint.svg",
+        "solid": "svg/orthopaedics/solid/wrist-joint.svg",
+        "duotone": "svg/orthopaedics/duotone/wrist-joint.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "hip-joint",
+      "name": "Hip Joint",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics",
+        "anatomy"
+      ],
+      "aliases": [
+        "Hip Anatomy"
+      ],
+      "catalogNumbers": [
+        106,
+        155
+      ],
+      "component": "HipJointIcon",
+      "keywords": [
+        "Hip Anatomy",
+        "Hip Joint",
+        "hip joint"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/hip-joint.svg",
+        "solid": "svg/orthopaedics/solid/hip-joint.svg",
+        "duotone": "svg/orthopaedics/duotone/hip-joint.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "hip-replacement",
+      "name": "Hip Replacement",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        107
+      ],
+      "component": "HipReplacementIcon",
+      "keywords": [
+        "Hip Replacement",
+        "hip replacement"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/hip-replacement.svg",
+        "solid": "svg/orthopaedics/solid/hip-replacement.svg",
+        "duotone": "svg/orthopaedics/duotone/hip-replacement.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "knee-joint",
+      "name": "Knee Joint",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics",
+        "anatomy"
+      ],
+      "aliases": [
+        "Knee Anatomy"
+      ],
+      "catalogNumbers": [
+        108,
+        154
+      ],
+      "component": "KneeJointIcon",
+      "keywords": [
+        "Knee Anatomy",
+        "Knee Joint",
+        "knee joint"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/knee-joint.svg",
+        "solid": "svg/orthopaedics/solid/knee-joint.svg",
+        "duotone": "svg/orthopaedics/duotone/knee-joint.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "knee-replacement",
+      "name": "Knee Replacement",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        109
+      ],
+      "component": "KneeReplacementIcon",
+      "keywords": [
+        "Knee Replacement",
+        "knee replacement"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/knee-replacement.svg",
+        "solid": "svg/orthopaedics/solid/knee-replacement.svg",
+        "duotone": "svg/orthopaedics/duotone/knee-replacement.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "acl",
+      "name": "ACL",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        110
+      ],
+      "component": "AclIcon",
+      "keywords": [
+        "ACL",
+        "acl",
+        "anterior cruciate ligament"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/acl.svg",
+        "solid": "svg/orthopaedics/solid/acl.svg",
+        "duotone": "svg/orthopaedics/duotone/acl.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "meniscus",
+      "name": "Meniscus",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        111
+      ],
+      "component": "MeniscusIcon",
+      "keywords": [
+        "Meniscus",
+        "meniscus"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/meniscus.svg",
+        "solid": "svg/orthopaedics/solid/meniscus.svg",
+        "duotone": "svg/orthopaedics/duotone/meniscus.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "spine",
+      "name": "Spine",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics",
+        "anatomy"
+      ],
+      "aliases": [
+        "Spinal Column"
+      ],
+      "catalogNumbers": [
+        112,
+        153
+      ],
+      "component": "SpineIcon",
+      "keywords": [
+        "Spinal Column",
+        "Spine",
+        "spine"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/spine.svg",
+        "solid": "svg/orthopaedics/solid/spine.svg",
+        "duotone": "svg/orthopaedics/duotone/spine.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "scoliosis",
+      "name": "Scoliosis",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        113
+      ],
+      "component": "ScoliosisIcon",
+      "keywords": [
+        "Scoliosis",
+        "scoliosis"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/scoliosis.svg",
+        "solid": "svg/orthopaedics/solid/scoliosis.svg",
+        "duotone": "svg/orthopaedics/duotone/scoliosis.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "plate-screws",
+      "name": "Plate and Screws",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        115
+      ],
+      "component": "PlateScrewsIcon",
+      "keywords": [
+        "Plate and Screws",
+        "plate screws"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/plate-screws.svg",
+        "solid": "svg/orthopaedics/solid/plate-screws.svg",
+        "duotone": "svg/orthopaedics/duotone/plate-screws.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "intramedullary-nail",
+      "name": "Intramedullary Nail",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        116
+      ],
+      "component": "IntramedullaryNailIcon",
+      "keywords": [
+        "Intramedullary Nail",
+        "intramedullary nail"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/intramedullary-nail.svg",
+        "solid": "svg/orthopaedics/solid/intramedullary-nail.svg",
+        "duotone": "svg/orthopaedics/duotone/intramedullary-nail.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "external-fixator",
+      "name": "External Fixator",
+      "category": "orthopaedics",
+      "categories": [
+        "orthopaedics"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        117
+      ],
+      "component": "ExternalFixatorIcon",
+      "keywords": [
+        "External Fixator",
+        "external fixator"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/orthopaedics/outline/external-fixator.svg",
+        "solid": "svg/orthopaedics/solid/external-fixator.svg",
+        "duotone": "svg/orthopaedics/duotone/external-fixator.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "uterus",
+      "name": "Uterus",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility",
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        118,
+        151
+      ],
+      "component": "UterusIcon",
+      "keywords": [
+        "Uterus",
+        "uterus"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/uterus.svg",
+        "solid": "svg/womens-health-and-fertility/solid/uterus.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/uterus.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ovary",
+      "name": "Ovary",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        119
+      ],
+      "component": "OvaryIcon",
+      "keywords": [
+        "Ovary",
+        "ovary"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/ovary.svg",
+        "solid": "svg/womens-health-and-fertility/solid/ovary.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/ovary.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "female-reproductive-system",
+      "name": "Female Reproductive System",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        120
+      ],
+      "component": "FemaleReproductiveSystemIcon",
+      "keywords": [
+        "Female Reproductive System",
+        "female reproductive system"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/female-reproductive-system.svg",
+        "solid": "svg/womens-health-and-fertility/solid/female-reproductive-system.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/female-reproductive-system.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pregnancy-foetus",
+      "name": "Pregnancy / Foetus",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        121
+      ],
+      "component": "PregnancyFoetusIcon",
+      "keywords": [
+        "Pregnancy / Foetus",
+        "pregnancy foetus"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/pregnancy-foetus.svg",
+        "solid": "svg/womens-health-and-fertility/solid/pregnancy-foetus.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/pregnancy-foetus.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "foetal-medicine",
+      "name": "Foetal Medicine",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        122
+      ],
+      "component": "FoetalMedicineIcon",
+      "keywords": [
+        "Foetal Medicine",
+        "foetal medicine"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/foetal-medicine.svg",
+        "solid": "svg/womens-health-and-fertility/solid/foetal-medicine.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/foetal-medicine.svg",
+        "beam": "svg/womens-health-and-fertility/beam/foetal-medicine.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "normal-delivery",
+      "name": "Normal Delivery",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        123
+      ],
+      "component": "NormalDeliveryIcon",
+      "keywords": [
+        "Normal Delivery",
+        "normal delivery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/normal-delivery.svg",
+        "solid": "svg/womens-health-and-fertility/solid/normal-delivery.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/normal-delivery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "breastfeeding",
+      "name": "Breastfeeding",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        125
+      ],
+      "component": "BreastfeedingIcon",
+      "keywords": [
+        "Breastfeeding",
+        "breastfeeding"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/breastfeeding.svg",
+        "solid": "svg/womens-health-and-fertility/solid/breastfeeding.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/breastfeeding.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ivf",
+      "name": "IVF",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        126
+      ],
+      "component": "IvfIcon",
+      "keywords": [
+        "IVF",
+        "in vitro fertilisation",
+        "in vitro fertilization",
+        "ivf"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/ivf.svg",
+        "solid": "svg/womens-health-and-fertility/solid/ivf.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/ivf.svg",
+        "beam": "svg/womens-health-and-fertility/beam/ivf.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "egg-retrieval",
+      "name": "Egg Retrieval",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        127
+      ],
+      "component": "EggRetrievalIcon",
+      "keywords": [
+        "Egg Retrieval",
+        "egg retrieval"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/egg-retrieval.svg",
+        "solid": "svg/womens-health-and-fertility/solid/egg-retrieval.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/egg-retrieval.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "embryo",
+      "name": "Embryo",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        128
+      ],
+      "component": "EmbryoIcon",
+      "keywords": [
+        "Embryo",
+        "embryo"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/embryo.svg",
+        "solid": "svg/womens-health-and-fertility/solid/embryo.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/embryo.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "embryo-transfer",
+      "name": "Embryo Transfer",
+      "category": "womens-health-and-fertility",
+      "categories": [
+        "womens-health-and-fertility"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        129
+      ],
+      "component": "EmbryoTransferIcon",
+      "keywords": [
+        "Embryo Transfer",
+        "embryo transfer"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/womens-health-and-fertility/outline/embryo-transfer.svg",
+        "solid": "svg/womens-health-and-fertility/solid/embryo-transfer.svg",
+        "duotone": "svg/womens-health-and-fertility/duotone/embryo-transfer.svg",
+        "beam": "svg/womens-health-and-fertility/beam/embryo-transfer.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "newborn",
+      "name": "Newborn",
+      "category": "paediatrics-and-neonatal",
+      "categories": [
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        130
+      ],
+      "component": "NewbornIcon",
+      "keywords": [
+        "Newborn",
+        "newborn"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/paediatrics-and-neonatal/outline/newborn.svg",
+        "solid": "svg/paediatrics-and-neonatal/solid/newborn.svg",
+        "duotone": "svg/paediatrics-and-neonatal/duotone/newborn.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "premature-baby",
+      "name": "Premature Baby",
+      "category": "paediatrics-and-neonatal",
+      "categories": [
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        131
+      ],
+      "component": "PrematureBabyIcon",
+      "keywords": [
+        "Premature Baby",
+        "premature baby"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/paediatrics-and-neonatal/outline/premature-baby.svg",
+        "solid": "svg/paediatrics-and-neonatal/solid/premature-baby.svg",
+        "duotone": "svg/paediatrics-and-neonatal/duotone/premature-baby.svg",
+        "beam": "svg/paediatrics-and-neonatal/beam/premature-baby.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "neonatal-ventilation",
+      "name": "Neonatal Ventilation",
+      "category": "paediatrics-and-neonatal",
+      "categories": [
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        133
+      ],
+      "component": "NeonatalVentilationIcon",
+      "keywords": [
+        "Neonatal Ventilation",
+        "neonatal ventilation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/paediatrics-and-neonatal/outline/neonatal-ventilation.svg",
+        "solid": "svg/paediatrics-and-neonatal/solid/neonatal-ventilation.svg",
+        "duotone": "svg/paediatrics-and-neonatal/duotone/neonatal-ventilation.svg",
+        "beam": "svg/paediatrics-and-neonatal/beam/neonatal-ventilation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "mother-baby",
+      "name": "Mother and Baby",
+      "category": "paediatrics-and-neonatal",
+      "categories": [
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        134
+      ],
+      "component": "MotherBabyIcon",
+      "keywords": [
+        "Mother and Baby",
+        "mother baby"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/paediatrics-and-neonatal/outline/mother-baby.svg",
+        "solid": "svg/paediatrics-and-neonatal/solid/mother-baby.svg",
+        "duotone": "svg/paediatrics-and-neonatal/duotone/mother-baby.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "child-development",
+      "name": "Child Development",
+      "category": "paediatrics-and-neonatal",
+      "categories": [
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        136
+      ],
+      "component": "ChildDevelopmentIcon",
+      "keywords": [
+        "Child Development",
+        "child development"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/paediatrics-and-neonatal/outline/child-development.svg",
+        "solid": "svg/paediatrics-and-neonatal/solid/child-development.svg",
+        "duotone": "svg/paediatrics-and-neonatal/duotone/child-development.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "paediatric-surgery",
+      "name": "Paediatric Surgery",
+      "category": "paediatrics-and-neonatal",
+      "categories": [
+        "paediatrics-and-neonatal"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        137
+      ],
+      "component": "PaediatricSurgeryIcon",
+      "keywords": [
+        "Paediatric Surgery",
+        "paediatric surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/paediatrics-and-neonatal/outline/paediatric-surgery.svg",
+        "solid": "svg/paediatrics-and-neonatal/solid/paediatric-surgery.svg",
+        "duotone": "svg/paediatrics-and-neonatal/duotone/paediatric-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "anatomical-heart",
+      "name": "Anatomical Heart",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        138
+      ],
+      "component": "AnatomicalHeartIcon",
+      "keywords": [
+        "Anatomical Heart",
+        "anatomical heart"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/anatomy/outline/anatomical-heart.svg",
+        "solid": "svg/anatomy/solid/anatomical-heart.svg",
+        "duotone": "svg/anatomy/duotone/anatomical-heart.svg",
+        "beam": "svg/anatomy/beam/anatomical-heart.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "coronary-arteries",
+      "name": "Coronary Arteries",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        139
+      ],
+      "component": "CoronaryArteriesIcon",
+      "keywords": [
+        "Coronary Arteries",
+        "coronary arteries"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/anatomy/outline/coronary-arteries.svg",
+        "solid": "svg/anatomy/solid/coronary-arteries.svg",
+        "duotone": "svg/anatomy/duotone/coronary-arteries.svg",
+        "beam": "svg/anatomy/beam/coronary-arteries.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "lungs",
+      "name": "Lungs",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        140
+      ],
+      "component": "LungsIcon",
+      "keywords": [
+        "Lungs",
+        "lungs"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/anatomy/outline/lungs.svg",
+        "solid": "svg/anatomy/solid/lungs.svg",
+        "duotone": "svg/anatomy/duotone/lungs.svg",
+        "beam": "svg/anatomy/beam/lungs.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "bronchial-tree",
+      "name": "Bronchial Tree",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        141
+      ],
+      "component": "BronchialTreeIcon",
+      "keywords": [
+        "Bronchial Tree",
+        "bronchial tree"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/bronchial-tree.svg",
+        "solid": "svg/anatomy/solid/bronchial-tree.svg",
+        "duotone": "svg/anatomy/duotone/bronchial-tree.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "liver",
+      "name": "Liver",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        142
+      ],
+      "component": "LiverIcon",
+      "keywords": [
+        "Liver",
+        "liver"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/liver.svg",
+        "solid": "svg/anatomy/solid/liver.svg",
+        "duotone": "svg/anatomy/duotone/liver.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pancreas",
+      "name": "Pancreas",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        143
+      ],
+      "component": "PancreasIcon",
+      "keywords": [
+        "Pancreas",
+        "pancreas"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/pancreas.svg",
+        "solid": "svg/anatomy/solid/pancreas.svg",
+        "duotone": "svg/anatomy/duotone/pancreas.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "stomach",
+      "name": "Stomach",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        144
+      ],
+      "component": "StomachIcon",
+      "keywords": [
+        "Stomach",
+        "stomach"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/stomach.svg",
+        "solid": "svg/anatomy/solid/stomach.svg",
+        "duotone": "svg/anatomy/duotone/stomach.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "gi-tract",
+      "name": "Intestine / GI Tract",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        145
+      ],
+      "component": "GiTractIcon",
+      "keywords": [
+        "Intestine / GI Tract",
+        "gi tract"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/gi-tract.svg",
+        "solid": "svg/anatomy/solid/gi-tract.svg",
+        "duotone": "svg/anatomy/duotone/gi-tract.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "colon",
+      "name": "Colon",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        146
+      ],
+      "component": "ColonIcon",
+      "keywords": [
+        "Colon",
+        "colon"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/colon.svg",
+        "solid": "svg/anatomy/solid/colon.svg",
+        "duotone": "svg/anatomy/duotone/colon.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "kidneys",
+      "name": "Kidneys",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        147
+      ],
+      "component": "KidneysIcon",
+      "keywords": [
+        "Kidneys",
+        "kidneys"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/anatomy/outline/kidneys.svg",
+        "solid": "svg/anatomy/solid/kidneys.svg",
+        "duotone": "svg/anatomy/duotone/kidneys.svg",
+        "beam": "svg/anatomy/beam/kidneys.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "bladder",
+      "name": "Bladder",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        148
+      ],
+      "component": "BladderIcon",
+      "keywords": [
+        "Bladder",
+        "bladder"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/bladder.svg",
+        "solid": "svg/anatomy/solid/bladder.svg",
+        "duotone": "svg/anatomy/duotone/bladder.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "prostate",
+      "name": "Prostate",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        149
+      ],
+      "component": "ProstateIcon",
+      "keywords": [
+        "Prostate",
+        "prostate"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/prostate.svg",
+        "solid": "svg/anatomy/solid/prostate.svg",
+        "duotone": "svg/anatomy/duotone/prostate.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "thyroid",
+      "name": "Thyroid",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        150
+      ],
+      "component": "ThyroidIcon",
+      "keywords": [
+        "Thyroid",
+        "thyroid"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/thyroid.svg",
+        "solid": "svg/anatomy/solid/thyroid.svg",
+        "duotone": "svg/anatomy/duotone/thyroid.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "breast",
+      "name": "Breast",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        152
+      ],
+      "component": "BreastIcon",
+      "keywords": [
+        "Breast",
+        "breast"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/anatomy/outline/breast.svg",
+        "solid": "svg/anatomy/solid/breast.svg",
+        "duotone": "svg/anatomy/duotone/breast.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pulmonary-function-test",
+      "name": "Pulmonary Function Test",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        156
+      ],
+      "component": "PulmonaryFunctionTestIcon",
+      "keywords": [
+        "Pulmonary Function Test",
+        "pulmonary function test"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/pulmonary-function-test.svg",
+        "solid": "svg/respiratory-and-sleep/solid/pulmonary-function-test.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/pulmonary-function-test.svg",
+        "beam": "svg/respiratory-and-sleep/beam/pulmonary-function-test.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "spirometry",
+      "name": "Spirometry",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        157
+      ],
+      "component": "SpirometryIcon",
+      "keywords": [
+        "Spirometry",
+        "spirometry"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/spirometry.svg",
+        "solid": "svg/respiratory-and-sleep/solid/spirometry.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/spirometry.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "nebulisation",
+      "name": "Nebulisation",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        159
+      ],
+      "component": "NebulisationIcon",
+      "keywords": [
+        "Nebulisation",
+        "nebulisation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/nebulisation.svg",
+        "solid": "svg/respiratory-and-sleep/solid/nebulisation.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/nebulisation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "oxygen-therapy",
+      "name": "Oxygen Therapy",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        160
+      ],
+      "component": "OxygenTherapyIcon",
+      "keywords": [
+        "Oxygen Therapy",
+        "oxygen therapy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/oxygen-therapy.svg",
+        "solid": "svg/respiratory-and-sleep/solid/oxygen-therapy.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/oxygen-therapy.svg",
+        "beam": "svg/respiratory-and-sleep/beam/oxygen-therapy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "mechanical-ventilation",
+      "name": "Mechanical Ventilation",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        161
+      ],
+      "component": "MechanicalVentilationIcon",
+      "keywords": [
+        "Mechanical Ventilation",
+        "mechanical ventilation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/mechanical-ventilation.svg",
+        "solid": "svg/respiratory-and-sleep/solid/mechanical-ventilation.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/mechanical-ventilation.svg",
+        "beam": "svg/respiratory-and-sleep/beam/mechanical-ventilation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cpap-bipap",
+      "name": "CPAP / BiPAP",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        162
+      ],
+      "component": "CpapBipapIcon",
+      "keywords": [
+        "CPAP / BiPAP",
+        "bilevel positive airway pressure",
+        "continuous positive airway pressure",
+        "cpap bipap"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/cpap-bipap.svg",
+        "solid": "svg/respiratory-and-sleep/solid/cpap-bipap.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/cpap-bipap.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "sleep-study",
+      "name": "Sleep Study",
+      "category": "respiratory-and-sleep",
+      "categories": [
+        "respiratory-and-sleep"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        163
+      ],
+      "component": "SleepStudyIcon",
+      "keywords": [
+        "Sleep Study",
+        "sleep study"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/respiratory-and-sleep/outline/sleep-study.svg",
+        "solid": "svg/respiratory-and-sleep/solid/sleep-study.svg",
+        "duotone": "svg/respiratory-and-sleep/duotone/sleep-study.svg",
+        "beam": "svg/respiratory-and-sleep/beam/sleep-study.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "trauma-patient",
+      "name": "Trauma Patient",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        164
+      ],
+      "component": "TraumaPatientIcon",
+      "keywords": [
+        "Trauma Patient",
+        "trauma patient"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/trauma-patient.svg",
+        "solid": "svg/emergency-and-trauma/solid/trauma-patient.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/trauma-patient.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "resuscitation",
+      "name": "Resuscitation",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        165
+      ],
+      "component": "ResuscitationIcon",
+      "keywords": [
+        "Resuscitation",
+        "resuscitation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/resuscitation.svg",
+        "solid": "svg/emergency-and-trauma/solid/resuscitation.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/resuscitation.svg",
+        "beam": "svg/emergency-and-trauma/beam/resuscitation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cpr",
+      "name": "CPR",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        166
+      ],
+      "component": "CprIcon",
+      "keywords": [
+        "CPR",
+        "cpr"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/cpr.svg",
+        "solid": "svg/emergency-and-trauma/solid/cpr.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/cpr.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "emergency-ventilation",
+      "name": "Emergency Ventilation",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        167
+      ],
+      "component": "EmergencyVentilationIcon",
+      "keywords": [
+        "Emergency Ventilation",
+        "emergency ventilation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/emergency-ventilation.svg",
+        "solid": "svg/emergency-and-trauma/solid/emergency-ventilation.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/emergency-ventilation.svg",
+        "beam": "svg/emergency-and-trauma/beam/emergency-ventilation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "emergency-bed",
+      "name": "Emergency Bed",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        168
+      ],
+      "component": "EmergencyBedIcon",
+      "keywords": [
+        "Emergency Bed",
+        "emergency bed"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/emergency-bed.svg",
+        "solid": "svg/emergency-and-trauma/solid/emergency-bed.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/emergency-bed.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "trauma-surgery",
+      "name": "Trauma Surgery",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        169
+      ],
+      "component": "TraumaSurgeryIcon",
+      "keywords": [
+        "Trauma Surgery",
+        "trauma surgery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/trauma-surgery.svg",
+        "solid": "svg/emergency-and-trauma/solid/trauma-surgery.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/trauma-surgery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "polytrauma",
+      "name": "Polytrauma",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        170
+      ],
+      "component": "PolytraumaIcon",
+      "keywords": [
+        "Polytrauma",
+        "polytrauma"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/polytrauma.svg",
+        "solid": "svg/emergency-and-trauma/solid/polytrauma.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/polytrauma.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "emergency-triage",
+      "name": "Emergency Triage",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        171
+      ],
+      "component": "EmergencyTriageIcon",
+      "keywords": [
+        "Emergency Triage",
+        "emergency triage"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/emergency-triage.svg",
+        "solid": "svg/emergency-and-trauma/solid/emergency-triage.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/emergency-triage.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "code-blue",
+      "name": "Code Blue",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        172
+      ],
+      "component": "CodeBlueIcon",
+      "keywords": [
+        "Code Blue",
+        "code blue"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/code-blue.svg",
+        "solid": "svg/emergency-and-trauma/solid/code-blue.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/code-blue.svg",
+        "beam": "svg/emergency-and-trauma/beam/code-blue.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "air-ambulance",
+      "name": "Air Ambulance",
+      "category": "emergency-and-trauma",
+      "categories": [
+        "emergency-and-trauma"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        173
+      ],
+      "component": "AirAmbulanceIcon",
+      "keywords": [
+        "Air Ambulance",
+        "air ambulance"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/emergency-and-trauma/outline/air-ambulance.svg",
+        "solid": "svg/emergency-and-trauma/solid/air-ambulance.svg",
+        "duotone": "svg/emergency-and-trauma/duotone/air-ambulance.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "physiotherapy",
+      "name": "Physiotherapy",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        174
+      ],
+      "component": "PhysiotherapyIcon",
+      "keywords": [
+        "Physiotherapy",
+        "physiotherapy"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/physiotherapy.svg",
+        "solid": "svg/rehabilitation/solid/physiotherapy.svg",
+        "duotone": "svg/rehabilitation/duotone/physiotherapy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "gait-training",
+      "name": "Gait Training",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        175
+      ],
+      "component": "GaitTrainingIcon",
+      "keywords": [
+        "Gait Training",
+        "gait training"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/gait-training.svg",
+        "solid": "svg/rehabilitation/solid/gait-training.svg",
+        "duotone": "svg/rehabilitation/duotone/gait-training.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "joint-rehabilitation",
+      "name": "Joint Rehabilitation",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        176
+      ],
+      "component": "JointRehabilitationIcon",
+      "keywords": [
+        "Joint Rehabilitation",
+        "joint rehabilitation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/joint-rehabilitation.svg",
+        "solid": "svg/rehabilitation/solid/joint-rehabilitation.svg",
+        "duotone": "svg/rehabilitation/duotone/joint-rehabilitation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "sports-rehabilitation",
+      "name": "Sports Rehabilitation",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        177
+      ],
+      "component": "SportsRehabilitationIcon",
+      "keywords": [
+        "Sports Rehabilitation",
+        "sports rehabilitation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/sports-rehabilitation.svg",
+        "solid": "svg/rehabilitation/solid/sports-rehabilitation.svg",
+        "duotone": "svg/rehabilitation/duotone/sports-rehabilitation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "neuro-rehabilitation",
+      "name": "Neuro Rehabilitation",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        178
+      ],
+      "component": "NeuroRehabilitationIcon",
+      "keywords": [
+        "Neuro Rehabilitation",
+        "neuro rehabilitation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/neuro-rehabilitation.svg",
+        "solid": "svg/rehabilitation/solid/neuro-rehabilitation.svg",
+        "duotone": "svg/rehabilitation/duotone/neuro-rehabilitation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pulmonary-rehabilitation",
+      "name": "Pulmonary Rehabilitation",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        179
+      ],
+      "component": "PulmonaryRehabilitationIcon",
+      "keywords": [
+        "Pulmonary Rehabilitation",
+        "pulmonary rehabilitation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/pulmonary-rehabilitation.svg",
+        "solid": "svg/rehabilitation/solid/pulmonary-rehabilitation.svg",
+        "duotone": "svg/rehabilitation/duotone/pulmonary-rehabilitation.svg",
+        "beam": "svg/rehabilitation/beam/pulmonary-rehabilitation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cardiac-rehabilitation",
+      "name": "Cardiac Rehabilitation",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        180
+      ],
+      "component": "CardiacRehabilitationIcon",
+      "keywords": [
+        "Cardiac Rehabilitation",
+        "cardiac rehabilitation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/cardiac-rehabilitation.svg",
+        "solid": "svg/rehabilitation/solid/cardiac-rehabilitation.svg",
+        "duotone": "svg/rehabilitation/duotone/cardiac-rehabilitation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "occupational-therapy",
+      "name": "Occupational Therapy",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        181
+      ],
+      "component": "OccupationalTherapyIcon",
+      "keywords": [
+        "Occupational Therapy",
+        "occupational therapy"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/occupational-therapy.svg",
+        "solid": "svg/rehabilitation/solid/occupational-therapy.svg",
+        "duotone": "svg/rehabilitation/duotone/occupational-therapy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "speech-therapy",
+      "name": "Speech Therapy",
+      "category": "rehabilitation",
+      "categories": [
+        "rehabilitation"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        182
+      ],
+      "component": "SpeechTherapyIcon",
+      "keywords": [
+        "Speech Therapy",
+        "speech therapy"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/rehabilitation/outline/speech-therapy.svg",
+        "solid": "svg/rehabilitation/solid/speech-therapy.svg",
+        "duotone": "svg/rehabilitation/duotone/speech-therapy.svg",
+        "beam": "svg/rehabilitation/beam/speech-therapy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "op-consultation",
+      "name": "OP Consultation",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        183
+      ],
+      "component": "OpConsultationIcon",
+      "keywords": [
+        "OP Consultation",
+        "op consultation",
+        "opd",
+        "outpatient"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/op-consultation.svg",
+        "solid": "svg/patient-journey/solid/op-consultation.svg",
+        "duotone": "svg/patient-journey/duotone/op-consultation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "inpatient-admission",
+      "name": "Inpatient Admission",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        184
+      ],
+      "component": "InpatientAdmissionIcon",
+      "keywords": [
+        "Inpatient Admission",
+        "inpatient admission"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/inpatient-admission.svg",
+        "solid": "svg/patient-journey/solid/inpatient-admission.svg",
+        "duotone": "svg/patient-journey/duotone/inpatient-admission.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "day-care-admission",
+      "name": "Day Care Admission",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        185
+      ],
+      "component": "DayCareAdmissionIcon",
+      "keywords": [
+        "Day Care Admission",
+        "day care admission"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/day-care-admission.svg",
+        "solid": "svg/patient-journey/solid/day-care-admission.svg",
+        "duotone": "svg/patient-journey/duotone/day-care-admission.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "preoperative-assessment",
+      "name": "Preoperative Assessment",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        186
+      ],
+      "component": "PreoperativeAssessmentIcon",
+      "keywords": [
+        "Preoperative Assessment",
+        "preoperative assessment"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/preoperative-assessment.svg",
+        "solid": "svg/patient-journey/solid/preoperative-assessment.svg",
+        "duotone": "svg/patient-journey/duotone/preoperative-assessment.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "surgery-scheduled",
+      "name": "Surgery Scheduled",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        187
+      ],
+      "component": "SurgeryScheduledIcon",
+      "keywords": [
+        "Surgery Scheduled",
+        "surgery scheduled"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/surgery-scheduled.svg",
+        "solid": "svg/patient-journey/solid/surgery-scheduled.svg",
+        "duotone": "svg/patient-journey/duotone/surgery-scheduled.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "postoperative-care",
+      "name": "Postoperative Care",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        188
+      ],
+      "component": "PostoperativeCareIcon",
+      "keywords": [
+        "Postoperative Care",
+        "postoperative care"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/postoperative-care.svg",
+        "solid": "svg/patient-journey/solid/postoperative-care.svg",
+        "duotone": "svg/patient-journey/duotone/postoperative-care.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "patient-transfer",
+      "name": "Patient Transfer",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        189
+      ],
+      "component": "PatientTransferIcon",
+      "keywords": [
+        "Patient Transfer",
+        "patient transfer"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/patient-transfer.svg",
+        "solid": "svg/patient-journey/solid/patient-transfer.svg",
+        "duotone": "svg/patient-journey/duotone/patient-transfer.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "discharge",
+      "name": "Discharge",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        190
+      ],
+      "component": "DischargeIcon",
+      "keywords": [
+        "Discharge",
+        "discharge"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/discharge.svg",
+        "solid": "svg/patient-journey/solid/discharge.svg",
+        "duotone": "svg/patient-journey/duotone/discharge.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "follow-up-consultation",
+      "name": "Follow-up Consultation",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        191
+      ],
+      "component": "FollowUpConsultationIcon",
+      "keywords": [
+        "Follow-up Consultation",
+        "follow up consultation"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/follow-up-consultation.svg",
+        "solid": "svg/patient-journey/solid/follow-up-consultation.svg",
+        "duotone": "svg/patient-journey/duotone/follow-up-consultation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "home-healthcare",
+      "name": "Home Healthcare",
+      "category": "patient-journey",
+      "categories": [
+        "patient-journey"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        192
+      ],
+      "component": "HomeHealthcareIcon",
+      "keywords": [
+        "Home Healthcare",
+        "home healthcare"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/patient-journey/outline/home-healthcare.svg",
+        "solid": "svg/patient-journey/solid/home-healthcare.svg",
+        "duotone": "svg/patient-journey/duotone/home-healthcare.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "round-the-clock-emergency",
+      "name": "24/7 Emergency",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        193
+      ],
+      "component": "RoundTheClockEmergencyIcon",
+      "keywords": [
+        "24/7 Emergency",
+        "round the clock emergency"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/round-the-clock-emergency.svg",
+        "solid": "svg/hospital-services/solid/round-the-clock-emergency.svg",
+        "duotone": "svg/hospital-services/duotone/round-the-clock-emergency.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "preventive-health-check",
+      "name": "Preventive Health Check",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        194
+      ],
+      "component": "PreventiveHealthCheckIcon",
+      "keywords": [
+        "Preventive Health Check",
+        "preventive health check"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/preventive-health-check.svg",
+        "solid": "svg/hospital-services/solid/preventive-health-check.svg",
+        "duotone": "svg/hospital-services/duotone/preventive-health-check.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "master-health-check",
+      "name": "Master Health Check",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        195
+      ],
+      "component": "MasterHealthCheckIcon",
+      "keywords": [
+        "Master Health Check",
+        "master health check"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/master-health-check.svg",
+        "solid": "svg/hospital-services/solid/master-health-check.svg",
+        "duotone": "svg/hospital-services/duotone/master-health-check.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "executive-health-check",
+      "name": "Executive Health Check",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        196
+      ],
+      "component": "ExecutiveHealthCheckIcon",
+      "keywords": [
+        "Executive Health Check",
+        "executive health check"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/executive-health-check.svg",
+        "solid": "svg/hospital-services/solid/executive-health-check.svg",
+        "duotone": "svg/hospital-services/duotone/executive-health-check.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "home-sample-collection",
+      "name": "Home Sample Collection",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        197
+      ],
+      "component": "HomeSampleCollectionIcon",
+      "keywords": [
+        "Home Sample Collection",
+        "home sample collection"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/home-sample-collection.svg",
+        "solid": "svg/hospital-services/solid/home-sample-collection.svg",
+        "duotone": "svg/hospital-services/duotone/home-sample-collection.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "home-nursing",
+      "name": "Home Nursing",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        198
+      ],
+      "component": "HomeNursingIcon",
+      "keywords": [
+        "Home Nursing",
+        "home nursing"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/home-nursing.svg",
+        "solid": "svg/hospital-services/solid/home-nursing.svg",
+        "duotone": "svg/hospital-services/duotone/home-nursing.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "home-physiotherapy",
+      "name": "Home Physiotherapy",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        199
+      ],
+      "component": "HomePhysiotherapyIcon",
+      "keywords": [
+        "Home Physiotherapy",
+        "home physiotherapy"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/home-physiotherapy.svg",
+        "solid": "svg/hospital-services/solid/home-physiotherapy.svg",
+        "duotone": "svg/hospital-services/duotone/home-physiotherapy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "pharmacy-delivery",
+      "name": "Pharmacy Delivery",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        200
+      ],
+      "component": "PharmacyDeliveryIcon",
+      "keywords": [
+        "Pharmacy Delivery",
+        "pharmacy delivery"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/pharmacy-delivery.svg",
+        "solid": "svg/hospital-services/solid/pharmacy-delivery.svg",
+        "duotone": "svg/hospital-services/duotone/pharmacy-delivery.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "international-patient-care",
+      "name": "International Patient Care",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        201
+      ],
+      "component": "InternationalPatientCareIcon",
+      "keywords": [
+        "International Patient Care",
+        "international patient care"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/international-patient-care.svg",
+        "solid": "svg/hospital-services/solid/international-patient-care.svg",
+        "duotone": "svg/hospital-services/duotone/international-patient-care.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "medical-tourism",
+      "name": "Medical Tourism",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        202
+      ],
+      "component": "MedicalTourismIcon",
+      "keywords": [
+        "Medical Tourism",
+        "medical tourism"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/medical-tourism.svg",
+        "solid": "svg/hospital-services/solid/medical-tourism.svg",
+        "duotone": "svg/hospital-services/duotone/medical-tourism.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "blood-donation",
+      "name": "Blood Donation",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        204
+      ],
+      "component": "BloodDonationIcon",
+      "keywords": [
+        "Blood Donation",
+        "blood donation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/hospital-services/outline/blood-donation.svg",
+        "solid": "svg/hospital-services/solid/blood-donation.svg",
+        "duotone": "svg/hospital-services/duotone/blood-donation.svg",
+        "beam": "svg/hospital-services/beam/blood-donation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "palliative-care",
+      "name": "Palliative Care",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        205
+      ],
+      "component": "PalliativeCareIcon",
+      "keywords": [
+        "Palliative Care",
+        "palliative care"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/palliative-care.svg",
+        "solid": "svg/hospital-services/solid/palliative-care.svg",
+        "duotone": "svg/hospital-services/duotone/palliative-care.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "rehabilitation-program",
+      "name": "Rehabilitation Program",
+      "category": "hospital-services",
+      "categories": [
+        "hospital-services"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        206
+      ],
+      "component": "RehabilitationProgramIcon",
+      "keywords": [
+        "Rehabilitation Program",
+        "rehabilitation program"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/hospital-services/outline/rehabilitation-program.svg",
+        "solid": "svg/hospital-services/solid/rehabilitation-program.svg",
+        "duotone": "svg/hospital-services/duotone/rehabilitation-program.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ventilator",
+      "name": "Ventilator",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        207
+      ],
+      "component": "VentilatorIcon",
+      "keywords": [
+        "Ventilator",
+        "ventilator"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/ventilator.svg",
+        "solid": "svg/clinical-equipment/solid/ventilator.svg",
+        "duotone": "svg/clinical-equipment/duotone/ventilator.svg",
+        "beam": "svg/clinical-equipment/beam/ventilator.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "patient-monitor",
+      "name": "Patient Monitor",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        208
+      ],
+      "component": "PatientMonitorIcon",
+      "keywords": [
+        "Patient Monitor",
+        "patient monitor"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/patient-monitor.svg",
+        "solid": "svg/clinical-equipment/solid/patient-monitor.svg",
+        "duotone": "svg/clinical-equipment/duotone/patient-monitor.svg",
+        "beam": "svg/clinical-equipment/beam/patient-monitor.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "infusion-pump",
+      "name": "Infusion Pump",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        209
+      ],
+      "component": "InfusionPumpIcon",
+      "keywords": [
+        "Infusion Pump",
+        "infusion pump"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/infusion-pump.svg",
+        "solid": "svg/clinical-equipment/solid/infusion-pump.svg",
+        "duotone": "svg/clinical-equipment/duotone/infusion-pump.svg",
+        "beam": "svg/clinical-equipment/beam/infusion-pump.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "syringe-pump",
+      "name": "Syringe Pump",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        210
+      ],
+      "component": "SyringePumpIcon",
+      "keywords": [
+        "Syringe Pump",
+        "syringe pump"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/syringe-pump.svg",
+        "solid": "svg/clinical-equipment/solid/syringe-pump.svg",
+        "duotone": "svg/clinical-equipment/duotone/syringe-pump.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "dialysis-machine",
+      "name": "Dialysis Machine",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        211
+      ],
+      "component": "DialysisMachineIcon",
+      "keywords": [
+        "Dialysis Machine",
+        "dialysis machine"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/dialysis-machine.svg",
+        "solid": "svg/clinical-equipment/solid/dialysis-machine.svg",
+        "duotone": "svg/clinical-equipment/duotone/dialysis-machine.svg",
+        "beam": "svg/clinical-equipment/beam/dialysis-machine.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "anaesthesia-workstation",
+      "name": "Anaesthesia Workstation",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        212
+      ],
+      "component": "AnaesthesiaWorkstationIcon",
+      "keywords": [
+        "Anaesthesia Workstation",
+        "anaesthesia workstation",
+        "anesthesia machine"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/anaesthesia-workstation.svg",
+        "solid": "svg/clinical-equipment/solid/anaesthesia-workstation.svg",
+        "duotone": "svg/clinical-equipment/duotone/anaesthesia-workstation.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "surgical-robot",
+      "name": "Surgical Robot",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        213
+      ],
+      "component": "SurgicalRobotIcon",
+      "keywords": [
+        "Surgical Robot",
+        "surgical robot"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/surgical-robot.svg",
+        "solid": "svg/clinical-equipment/solid/surgical-robot.svg",
+        "duotone": "svg/clinical-equipment/duotone/surgical-robot.svg",
+        "beam": "svg/clinical-equipment/beam/surgical-robot.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "ecmo",
+      "name": "ECMO",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        216
+      ],
+      "component": "EcmoIcon",
+      "keywords": [
+        "ECMO",
+        "ecmo",
+        "extracorporeal membrane oxygenation"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/ecmo.svg",
+        "solid": "svg/clinical-equipment/solid/ecmo.svg",
+        "duotone": "svg/clinical-equipment/duotone/ecmo.svg",
+        "beam": "svg/clinical-equipment/beam/ecmo.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "heart-lung-machine",
+      "name": "Heart-Lung Machine",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        217
+      ],
+      "component": "HeartLungMachineIcon",
+      "keywords": [
+        "Heart-Lung Machine",
+        "heart lung machine"
+      ],
+      "supportsBeam": true,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/heart-lung-machine.svg",
+        "solid": "svg/clinical-equipment/solid/heart-lung-machine.svg",
+        "duotone": "svg/clinical-equipment/duotone/heart-lung-machine.svg",
+        "beam": "svg/clinical-equipment/beam/heart-lung-machine.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cath-lab-system",
+      "name": "Cath Lab System",
+      "category": "clinical-equipment",
+      "categories": [
+        "clinical-equipment"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        218
+      ],
+      "component": "CathLabSystemIcon",
+      "keywords": [
+        "Cath Lab System",
+        "cath lab system"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/clinical-equipment/outline/cath-lab-system.svg",
+        "solid": "svg/clinical-equipment/solid/cath-lab-system.svg",
+        "duotone": "svg/clinical-equipment/duotone/cath-lab-system.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "heart-attack",
+      "name": "Heart Attack",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        219
+      ],
+      "component": "HeartAttackIcon",
+      "keywords": [
+        "Heart Attack",
+        "heart attack"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/heart-attack.svg",
+        "solid": "svg/conditions/solid/heart-attack.svg",
+        "duotone": "svg/conditions/duotone/heart-attack.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "stroke",
+      "name": "Stroke",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        220
+      ],
+      "component": "StrokeIcon",
+      "keywords": [
+        "Stroke",
+        "stroke"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/stroke.svg",
+        "solid": "svg/conditions/solid/stroke.svg",
+        "duotone": "svg/conditions/duotone/stroke.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "coronary-artery-disease",
+      "name": "Coronary Artery Disease",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        221
+      ],
+      "component": "CoronaryArteryDiseaseIcon",
+      "keywords": [
+        "Coronary Artery Disease",
+        "coronary artery disease"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/coronary-artery-disease.svg",
+        "solid": "svg/conditions/solid/coronary-artery-disease.svg",
+        "duotone": "svg/conditions/duotone/coronary-artery-disease.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "heart-failure",
+      "name": "Heart Failure",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        222
+      ],
+      "component": "HeartFailureIcon",
+      "keywords": [
+        "Heart Failure",
+        "heart failure"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/heart-failure.svg",
+        "solid": "svg/conditions/solid/heart-failure.svg",
+        "duotone": "svg/conditions/duotone/heart-failure.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "diabetes",
+      "name": "Diabetes",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        223
+      ],
+      "component": "DiabetesIcon",
+      "keywords": [
+        "Diabetes",
+        "diabetes"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/diabetes.svg",
+        "solid": "svg/conditions/solid/diabetes.svg",
+        "duotone": "svg/conditions/duotone/diabetes.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "kidney-disease",
+      "name": "Kidney Disease",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        224
+      ],
+      "component": "KidneyDiseaseIcon",
+      "keywords": [
+        "Kidney Disease",
+        "kidney disease"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/kidney-disease.svg",
+        "solid": "svg/conditions/solid/kidney-disease.svg",
+        "duotone": "svg/conditions/duotone/kidney-disease.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "kidney-stone",
+      "name": "Kidney Stone",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        225
+      ],
+      "component": "KidneyStoneIcon",
+      "keywords": [
+        "Kidney Stone",
+        "kidney stone"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/kidney-stone.svg",
+        "solid": "svg/conditions/solid/kidney-stone.svg",
+        "duotone": "svg/conditions/duotone/kidney-stone.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cancer",
+      "name": "Cancer",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        226
+      ],
+      "component": "CancerIcon",
+      "keywords": [
+        "Cancer",
+        "cancer"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/cancer.svg",
+        "solid": "svg/conditions/solid/cancer.svg",
+        "duotone": "svg/conditions/duotone/cancer.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "arthritis",
+      "name": "Arthritis",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        227
+      ],
+      "component": "ArthritisIcon",
+      "keywords": [
+        "Arthritis",
+        "arthritis"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/arthritis.svg",
+        "solid": "svg/conditions/solid/arthritis.svg",
+        "duotone": "svg/conditions/duotone/arthritis.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "osteoporosis",
+      "name": "Osteoporosis",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        228
+      ],
+      "component": "OsteoporosisIcon",
+      "keywords": [
+        "Osteoporosis",
+        "osteoporosis"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/osteoporosis.svg",
+        "solid": "svg/conditions/solid/osteoporosis.svg",
+        "duotone": "svg/conditions/duotone/osteoporosis.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "asthma",
+      "name": "Asthma",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        229
+      ],
+      "component": "AsthmaIcon",
+      "keywords": [
+        "Asthma",
+        "asthma"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/asthma.svg",
+        "solid": "svg/conditions/solid/asthma.svg",
+        "duotone": "svg/conditions/duotone/asthma.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "copd",
+      "name": "COPD",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        230
+      ],
+      "component": "CopdIcon",
+      "keywords": [
+        "COPD",
+        "chronic obstructive pulmonary disease",
+        "copd"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/copd.svg",
+        "solid": "svg/conditions/solid/copd.svg",
+        "duotone": "svg/conditions/duotone/copd.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "liver-disease",
+      "name": "Liver Disease",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        231
+      ],
+      "component": "LiverDiseaseIcon",
+      "keywords": [
+        "Liver Disease",
+        "liver disease"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/liver-disease.svg",
+        "solid": "svg/conditions/solid/liver-disease.svg",
+        "duotone": "svg/conditions/duotone/liver-disease.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "high-risk-pregnancy",
+      "name": "High-Risk Pregnancy",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        232
+      ],
+      "component": "HighRiskPregnancyIcon",
+      "keywords": [
+        "High-Risk Pregnancy",
+        "high risk pregnancy"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/high-risk-pregnancy.svg",
+        "solid": "svg/conditions/solid/high-risk-pregnancy.svg",
+        "duotone": "svg/conditions/duotone/high-risk-pregnancy.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "cataract",
+      "name": "Cataract",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        233
+      ],
+      "component": "CataractIcon",
+      "keywords": [
+        "Cataract",
+        "cataract"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/cataract.svg",
+        "solid": "svg/conditions/solid/cataract.svg",
+        "duotone": "svg/conditions/duotone/cataract.svg"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "slug": "glaucoma",
+      "name": "Glaucoma",
+      "category": "conditions",
+      "categories": [
+        "conditions"
+      ],
+      "aliases": [],
+      "catalogNumbers": [
+        234
+      ],
+      "component": "GlaucomaIcon",
+      "keywords": [
+        "Glaucoma",
+        "glaucoma"
+      ],
+      "supportsBeam": false,
+      "paths": {
+        "outline": "svg/conditions/outline/glaucoma.svg",
+        "solid": "svg/conditions/solid/glaucoma.svg",
+        "duotone": "svg/conditions/duotone/glaucoma.svg"
+      },
+      "viewBox": "0 0 48 48"
+    }
+  ]
+}

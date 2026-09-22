@@ -1,0 +1,25 @@
+{
+  "svgFiles": 717,
+  "canonicalIcons": 219,
+  "catalogEntriesCovered": 234,
+  "categories": 18,
+  "xmlValidation": "passed",
+  "internalReferences": "passed",
+  "noScriptsRastersOrFonts": "passed",
+  "uniqueGeometryRecipes": 219,
+  "missingFiles": [],
+  "browser": {
+    "individualSvgDownload": "cardiology-solid.svg",
+    "reducedMotion": "beam hidden; static base restored to full opacity",
+    "gallery": "search, cross-listed category filtering, style switch, modal, download, theme, mobile overflow and beam motion passed",
+    "pageErrors": [],
+    "outOfViewBoxBounds": []
+  },
+  "react": {
+    "componentCount": 219,
+    "esmModulesTranspiled": 239,
+    "syntaxDiagnostics": 0,
+    "fullReactTypecheck": "not run - React type dependencies unavailable",
+    "applicationHydrationTest": "not run"
+  }
+}

@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const UltrasoundIcon = createClinicalIcon("ultrasound", "UltrasoundIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 5, "y": 6, "width": 28, "height": 22, "rx": 3 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M11 12 L9 22 Q19 27 29 22 L26 12 M13 18 Q19 15 25 19" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M8 30 H31 L34 37 H5 Z" } }, { "tag": "path", "role": "line", "attrs": { "d": "M10 37 V43 M28 37 V43 M33 15 C44 12 40 29 42 30" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 37, "y": 29, "width": 7, "height": 9, "rx": 2 } }], "M19 12 L10 22 Q19 27 28 22 L19 12");

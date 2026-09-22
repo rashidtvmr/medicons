@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const BloodTransfusionIcon = createClinicalIcon("blood-transfusion", "BloodTransfusionIcon", [{"tag":"rect","role":"body","attrs":{"x":9,"y":5,"width":21,"height":25,"rx":4}},{"tag":"path","role":"cut","attrs":{"d":"M14 10 H25"}},{"tag":"path","role":"accent","attrs":{"d":"M20 13 C14 20 15 24 20 24 C25 24 26 20 20 13 Z"}},{"tag":"path","role":"line","attrs":{"d":"M20 31 V35 C20 42 40 43 40 34 V29"}},{"tag":"rect","role":"accent","attrs":{"x":36,"y":23,"width":8,"height":7,"rx":1}}], "M20 29 V35 C20 42 40 43 40 34 V29");

@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const KidneyStoneIcon = createClinicalIcon("kidney-stone", "KidneyStoneIcon", [{"tag":"path","role":"body","attrs":{"d":"M26 8 C17 3 8 11 8 24 C8 38 18 44 26 38 C32 34 27 29 23 29 C19 29 17 27 17 24 C17 20 19 18 23 18 C29 18 31 12 26 8 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M23 12 C16 10 12 17 12 24 C12 32 16 37 22 35"}},{"tag":"path","role":"accent","attrs":{"d":"M30 21 L36 18 L41 23 L38 30 L32 29 L29 25 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M33 22 L36 26 L39 23"}},{"tag":"path","role":"line","attrs":{"d":"M25 25 C25 32 31 33 30 43"}}]);

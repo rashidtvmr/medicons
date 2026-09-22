@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const HistopathologyIcon = createClinicalIcon("histopathology", "HistopathologyIcon", [{ "tag": "rect", "role": "body", "attrs": { "x": 5, "y": 5, "width": 27, "height": 37, "rx": 2 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M10 10 H23 M10 36 H18" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M10 19 C16 13 27 16 27 24 C22 31 13 32 10 25 Z" } }, { "tag": "circle", "role": "cut", "attrs": { "cx": 19, "cy": 23, "r": 3 } }, { "tag": "circle", "role": "body", "attrs": { "cx": 35, "cy": 32, "r": 8 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M32 29 L34 32 L38 29 M34 32 L34 36" } }]);

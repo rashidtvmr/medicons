@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const PathologySlideIcon = createClinicalIcon("pathology-slide", "PathologySlideIcon", [{"tag":"rect","role":"body","attrs":{"x":5,"y":12,"width":38,"height":24,"rx":2}},{"tag":"rect","role":"accent","attrs":{"x":6,"y":13,"width":9,"height":22,"rx":1}},{"tag":"path","role":"cut","attrs":{"d":"M8 18 H12 M8 23 H12"}},{"tag":"path","role":"accent","attrs":{"d":"M23 18 Q31 14 35 22 Q39 29 29 31 Q20 29 23 18 Z"}},{"tag":"circle","role":"cut","attrs":{"cx":29,"cy":24,"r":3}}]);

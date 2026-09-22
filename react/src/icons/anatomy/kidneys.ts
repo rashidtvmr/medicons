@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const KidneysIcon = createClinicalIcon("kidneys", "KidneysIcon", [{"tag":"g","attrs":{"transform":"translate(0 5) scale(0.73)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M26 8 C17 3 8 11 8 24 C8 38 18 44 26 38 C32 34 27 29 23 29 C19 29 17 27 17 24 C17 20 19 18 23 18 C29 18 31 12 26 8 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M23 12 C16 10 12 17 12 24 C12 32 16 37 22 35"}}]},{"tag":"g","attrs":{"transform":"translate(48 5) scale(-0.73 0.73)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M26 8 C17 3 8 11 8 24 C8 38 18 44 26 38 C32 34 27 29 23 29 C19 29 17 27 17 24 C17 20 19 18 23 18 C29 18 31 12 26 8 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M23 12 C16 10 12 17 12 24 C12 32 16 37 22 35"}}]},{"tag":"path","role":"line","attrs":{"d":"M18 23 C22 23 20 32 21 39 M30 23 C26 23 28 32 27 39"}}], "M18 20 C23 25 19 31 21 39");

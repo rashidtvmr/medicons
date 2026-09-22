@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const CpapBipapIcon = createClinicalIcon("cpap-bipap", "CpapBipapIcon", [{ "tag": "path", "role": "body", "attrs": { "d": "M13 6 C24 4 29 14 25 20 L28 24 L23 28 V35 H17 V43 H6 V23 C2 17 5 8 13 6 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M20 20 L27 21 L30 30 L23 32 L19 28 Z" } }, { "tag": "path", "role": "line", "attrs": { "d": "M9 12 L24 23 M6 31 L22 28 M29 28 C41 25 44 37 37 39" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 29, "y": 36, "width": 15, "height": 8, "rx": 2 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M33 40 H39" } }]);

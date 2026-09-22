@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const CArmIcon = createClinicalIcon("c-arm", "CArmIcon", [{ "tag": "path", "role": "body", "attrs": { "d": "M33 8 C16 2 5 14 10 27 C13 35 22 38 31 35 L29 29 C21 32 16 27 15 22 C13 14 21 10 29 14 Z" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 28, "y": 5, "width": 11, "height": 10, "rx": 2 } }, { "tag": "rect", "role": "accent", "attrs": { "x": 27, "y": 28, "width": 11, "height": 10, "rx": 2 } }, { "tag": "path", "role": "line", "attrs": { "d": "M7 23 H3 V40 H18 M23 22 H44 M38 22 V43" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M33 8 V12 M30 32 H35" } }], "M30 11 C11 2 6 34 30 32");

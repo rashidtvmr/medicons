@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const OpConsultationIcon = createClinicalIcon("op-consultation", "OpConsultationIcon", [{"tag":"g","attrs":{"transform":"translate(-1 0) scale(0.86)"},"children":[{"tag":"circle","role":"body","attrs":{"cx":17,"cy":11,"r":5}},{"tag":"path","role":"body","attrs":{"d":"M7 38 V26 C7 17 27 17 27 26 V38 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M13 21 L17 29 L21 21 M17 29 V37"}},{"tag":"path","role":"line","attrs":{"d":"M11 23 V29 Q11 34 16 34"}},{"tag":"circle","role":"cut","attrs":{"cx":22,"cy":30,"r":2}}]},{"tag":"circle","role":"body","attrs":{"cx":35,"cy":16,"r":5}},{"tag":"path","role":"body","attrs":{"d":"M28 42 V30 Q35 22 42 30 V42 Z"}},{"tag":"path","role":"line","attrs":{"d":"M6 36 H27"}},{"tag":"path","role":"cut","attrs":{"d":"M31 32 L35 36 L39 32"}}]);

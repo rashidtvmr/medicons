@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const DischargeIcon = createClinicalIcon("discharge", "DischargeIcon", [{"tag":"path","role":"line","attrs":{"d":"M7 42 V6 H30 V18"}},{"tag":"rect","role":"accent","attrs":{"x":11,"y":10,"width":14,"height":16,"rx":2}},{"tag":"path","role":"cut","attrs":{"d":"M14 14 H21 M14 19 H19"}},{"tag":"circle","role":"body","attrs":{"cx":32,"cy":25,"r":3}},{"tag":"path","role":"line","attrs":{"d":"M32 29 L31 36 L27 43 M31 36 L37 42 M32 32 L39 33 L43 28 M11 36 H22 M18 32 L22 36 L18 40"}}]);

@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const SurgicalOncologyIcon = createClinicalIcon("surgical-oncology", "SurgicalOncologyIcon", [{"tag":"g","attrs":{"transform":"translate(-3 0) scale(0.9)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M24 6 C15 6 12 14 16 21 L29 43 L36 37 L23 16 C21 12 26 11 27 15 L12 37 L19 43 L32 21 C37 13 32 6 24 6 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M17 14 C20 8 28 8 31 14 M19 24 L23 30"}}]},{"tag":"g","attrs":{"transform":"translate(20 19) scale(0.54)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M31 7 L39 13 L23 30 L18 25 Z"}},{"tag":"path","role":"accent","attrs":{"d":"M17 26 L22 31 L10 43 C5 40 7 35 10 32 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M30 12 L33 15"}}]}]);

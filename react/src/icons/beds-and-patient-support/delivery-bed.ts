@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const DeliveryBedIcon = createClinicalIcon("delivery-bed", "DeliveryBedIcon", [{"tag":"path","role":"body","attrs":{"d":"M7 15 Q8 11 12 12 L23 28 H32 L36 33 H22 L9 22 Z"}},{"tag":"path","role":"line","attrs":{"d":"M18 29 V39 M13 40 H31 M33 28 L39 22 M31 32 L39 36 M39 18 V25 M39 33 V40"}},{"tag":"rect","role":"accent","attrs":{"x":36,"y":17,"width":7,"height":4,"rx":1}},{"tag":"rect","role":"accent","attrs":{"x":36,"y":39,"width":7,"height":4,"rx":1}},{"tag":"path","role":"cut","attrs":{"d":"M11 17 L24 30"}}]);

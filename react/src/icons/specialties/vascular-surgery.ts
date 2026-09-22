@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const VascularSurgeryIcon = createClinicalIcon("vascular-surgery", "VascularSurgeryIcon", [{"tag":"g","attrs":{"transform":"translate(-1 0) scale(0.85)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M14 5 L22 5 L22 19 L33 8 L39 14 L25 28 L25 43 L16 43 L16 25 L6 15 L12 9 L17 14 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M18 8 L18 19 L10 13 M20 38 L20 26 L34 12"}}]},{"tag":"g","attrs":{"transform":"translate(20 19) scale(0.54)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M31 7 L39 13 L23 30 L18 25 Z"}},{"tag":"path","role":"accent","attrs":{"d":"M17 26 L22 31 L10 43 C5 40 7 35 10 32 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M30 12 L33 15"}}]}], "M14 8 V19 L21 27 V37");

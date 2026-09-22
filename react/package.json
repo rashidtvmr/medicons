@@ -1,0 +1,122 @@
+{
+  "name": "@hospital/clinical-icons",
+  "version": "1.0.0",
+  "description": "Original hospital-specific SVG icons as React components",
+  "type": "module",
+  "sideEffects": false,
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "react": ">=18 <20"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./specialties": {
+      "types": "./dist/categories/specialties.d.ts",
+      "import": "./dist/categories/specialties.js",
+      "default": "./dist/categories/specialties.js"
+    },
+    "./critical-care-units": {
+      "types": "./dist/categories/critical-care-units.d.ts",
+      "import": "./dist/categories/critical-care-units.js",
+      "default": "./dist/categories/critical-care-units.js"
+    },
+    "./beds-and-patient-support": {
+      "types": "./dist/categories/beds-and-patient-support.d.ts",
+      "import": "./dist/categories/beds-and-patient-support.js",
+      "default": "./dist/categories/beds-and-patient-support.js"
+    },
+    "./imaging-and-radiology": {
+      "types": "./dist/categories/imaging-and-radiology.d.ts",
+      "import": "./dist/categories/imaging-and-radiology.js",
+      "default": "./dist/categories/imaging-and-radiology.js"
+    },
+    "./cardiac-diagnostics": {
+      "types": "./dist/categories/cardiac-diagnostics.d.ts",
+      "import": "./dist/categories/cardiac-diagnostics.js",
+      "default": "./dist/categories/cardiac-diagnostics.js"
+    },
+    "./laboratory-and-pathology": {
+      "types": "./dist/categories/laboratory-and-pathology.d.ts",
+      "import": "./dist/categories/laboratory-and-pathology.js",
+      "default": "./dist/categories/laboratory-and-pathology.js"
+    },
+    "./surgery-and-procedures": {
+      "types": "./dist/categories/surgery-and-procedures.d.ts",
+      "import": "./dist/categories/surgery-and-procedures.js",
+      "default": "./dist/categories/surgery-and-procedures.js"
+    },
+    "./orthopaedics": {
+      "types": "./dist/categories/orthopaedics.d.ts",
+      "import": "./dist/categories/orthopaedics.js",
+      "default": "./dist/categories/orthopaedics.js"
+    },
+    "./womens-health-and-fertility": {
+      "types": "./dist/categories/womens-health-and-fertility.d.ts",
+      "import": "./dist/categories/womens-health-and-fertility.js",
+      "default": "./dist/categories/womens-health-and-fertility.js"
+    },
+    "./paediatrics-and-neonatal": {
+      "types": "./dist/categories/paediatrics-and-neonatal.d.ts",
+      "import": "./dist/categories/paediatrics-and-neonatal.js",
+      "default": "./dist/categories/paediatrics-and-neonatal.js"
+    },
+    "./anatomy": {
+      "types": "./dist/categories/anatomy.d.ts",
+      "import": "./dist/categories/anatomy.js",
+      "default": "./dist/categories/anatomy.js"
+    },
+    "./respiratory-and-sleep": {
+      "types": "./dist/categories/respiratory-and-sleep.d.ts",
+      "import": "./dist/categories/respiratory-and-sleep.js",
+      "default": "./dist/categories/respiratory-and-sleep.js"
+    },
+    "./emergency-and-trauma": {
+      "types": "./dist/categories/emergency-and-trauma.d.ts",
+      "import": "./dist/categories/emergency-and-trauma.js",
+      "default": "./dist/categories/emergency-and-trauma.js"
+    },
+    "./rehabilitation": {
+      "types": "./dist/categories/rehabilitation.d.ts",
+      "import": "./dist/categories/rehabilitation.js",
+      "default": "./dist/categories/rehabilitation.js"
+    },
+    "./patient-journey": {
+      "types": "./dist/categories/patient-journey.d.ts",
+      "import": "./dist/categories/patient-journey.js",
+      "default": "./dist/categories/patient-journey.js"
+    },
+    "./hospital-services": {
+      "types": "./dist/categories/hospital-services.d.ts",
+      "import": "./dist/categories/hospital-services.js",
+      "default": "./dist/categories/hospital-services.js"
+    },
+    "./clinical-equipment": {
+      "types": "./dist/categories/clinical-equipment.d.ts",
+      "import": "./dist/categories/clinical-equipment.js",
+      "default": "./dist/categories/clinical-equipment.js"
+    },
+    "./conditions": {
+      "types": "./dist/categories/conditions.d.ts",
+      "import": "./dist/categories/conditions.js",
+      "default": "./dist/categories/conditions.js"
+    },
+    "./*": {
+      "types": "./dist/icons/*.d.ts",
+      "import": "./dist/icons/*.js",
+      "default": "./dist/icons/*.js"
+    }
+  }
+}

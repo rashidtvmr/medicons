@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const PharmacyDeliveryIcon = createClinicalIcon("pharmacy-delivery", "PharmacyDeliveryIcon", [{ "tag": "path", "role": "body", "attrs": { "d": "M5 15 H28 V36 H5 Z" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M28 23 H36 L43 30 V36 H28 Z" } }, { "tag": "circle", "role": "body", "attrs": { "cx": 13, "cy": 39, "r": 4 } }, { "tag": "circle", "role": "body", "attrs": { "cx": 35, "cy": 39, "r": 4 } }, { "tag": "path", "role": "accent", "attrs": { "d": "M13 9 C16 5 22 10 19 14 L15 20 C12 24 6 19 9 15 Z" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M11 12 L17 17 M32 27 H36 L39 31 H32 Z" } }]);

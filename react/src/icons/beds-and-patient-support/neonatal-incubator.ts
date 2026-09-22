@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const NeonatalIncubatorIcon = createClinicalIcon("neonatal-incubator", "NeonatalIncubatorIcon", [{"tag":"path","role":"body","attrs":{"d":"M9 24 V17 C9 8 39 8 39 17 V24 Z"}},{"tag":"rect","role":"body","attrs":{"x":6,"y":24,"width":36,"height":7,"rx":2}},{"tag":"path","role":"line","attrs":{"d":"M12 32 V40 M36 32 V40 M10 40 H38"}},{"tag":"circle","role":"body","attrs":{"cx":12,"cy":42,"r":2}},{"tag":"circle","role":"body","attrs":{"cx":36,"cy":42,"r":2}},{"tag":"circle","role":"cut","attrs":{"cx":18,"cy":20,"r":3}},{"tag":"path","role":"cut","attrs":{"d":"M22 23 L22 18 Q31 16 33 23 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M13 17 L15 14 M34 14 L36 17"}}], "M12 15 C15 9 33 9 37 15");

@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const OxygenTherapyIcon = createClinicalIcon("oxygen-therapy", "OxygenTherapyIcon", [{"tag":"g","attrs":{"transform":"translate(-4 1) scale(0.87)"},"children":[{"tag":"rect","role":"body","attrs":{"x":15,"y":12,"width":18,"height":31,"rx":5}},{"tag":"rect","role":"body","attrs":{"x":19,"y":6,"width":10,"height":6,"rx":1}},{"tag":"path","role":"line","attrs":{"d":"M24 6 V3 M19 3 H29"}},{"tag":"path","role":"cut","attrs":{"d":"M20 19 L28 19 M20 36 H28"}}]},{"tag":"path","role":"body","attrs":{"d":"M36 5 C44 6 45 15 41 19 L44 23 L40 25 V31 H34 V39"}},{"tag":"path","role":"cut","attrs":{"d":"M38 15 H40"}},{"tag":"path","role":"line","attrs":{"d":"M19 10 C25 5 29 22 37 23 M34 21 L36 25 M38 21 V25"}}], "M18 10 C25 5 29 22 37 23");

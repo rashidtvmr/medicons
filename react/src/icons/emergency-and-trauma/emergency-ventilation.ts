@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const EmergencyVentilationIcon = createClinicalIcon("emergency-ventilation", "EmergencyVentilationIcon", [{"tag":"path","role":"body","attrs":{"d":"M27 29 C28 18 43 19 43 29 C44 37 39 40 33 39 L27 43 H17 L22 36 Z"}},{"tag":"path","role":"accent","attrs":{"d":"M27 23 L35 27 L33 33 L23 30 Z"}},{"tag":"ellipse","role":"accent","attrs":{"cx":17,"cy":16,"rx":10,"ry":7,"transform":"rotate(25 17 16)"}},{"tag":"path","role":"line","attrs":{"d":"M25 20 L29 25 M7 12 L4 10"}},{"tag":"path","role":"cut","attrs":{"d":"M12 12 L22 17 M33 33 L38 32"}}], "M8 12 L25 20 L30 27");

@@ -1,0 +1,1406 @@
+[
+  {
+    "catalogNumber": 1,
+    "name": "Cardiology",
+    "slug": "cardiology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 2,
+    "name": "Cardiothoracic Surgery",
+    "slug": "cardiothoracic-surgery",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 3,
+    "name": "Vascular Surgery",
+    "slug": "vascular-surgery",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 4,
+    "name": "Neurology",
+    "slug": "neurology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 5,
+    "name": "Neurosurgery",
+    "slug": "neurosurgery",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 6,
+    "name": "Orthopaedics",
+    "slug": "orthopaedics",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 7,
+    "name": "Spine Surgery",
+    "slug": "spine-surgery",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 8,
+    "name": "Joint Replacement",
+    "slug": "joint-replacement",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 9,
+    "name": "Sports Medicine",
+    "slug": "sports-medicine",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 10,
+    "name": "General Surgery",
+    "slug": "general-surgery",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 11,
+    "name": "Gastroenterology",
+    "slug": "gastroenterology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 12,
+    "name": "GI Surgery",
+    "slug": "gi-surgery",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 13,
+    "name": "Hepatology",
+    "slug": "hepatology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 14,
+    "name": "Nephrology",
+    "slug": "nephrology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 15,
+    "name": "Urology",
+    "slug": "urology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 16,
+    "name": "Pulmonology",
+    "slug": "pulmonology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 17,
+    "name": "Endocrinology",
+    "slug": "endocrinology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 18,
+    "name": "Diabetology",
+    "slug": "diabetology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 19,
+    "name": "Rheumatology",
+    "slug": "rheumatology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 20,
+    "name": "Medical Oncology",
+    "slug": "medical-oncology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 21,
+    "name": "Surgical Oncology",
+    "slug": "surgical-oncology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 22,
+    "name": "Radiation Oncology",
+    "slug": "radiation-oncology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 23,
+    "name": "Haematology",
+    "slug": "haematology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 24,
+    "name": "Obstetrics & Gynaecology",
+    "slug": "obstetrics-gynaecology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 25,
+    "name": "Fertility / IVF",
+    "slug": "fertility-ivf",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 26,
+    "name": "Paediatrics",
+    "slug": "paediatrics",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 27,
+    "name": "Neonatology",
+    "slug": "neonatology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 28,
+    "name": "ENT",
+    "slug": "ent",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 29,
+    "name": "Ophthalmology",
+    "slug": "ophthalmology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 30,
+    "name": "Dermatology",
+    "slug": "dermatology",
+    "category": "specialties"
+  },
+  {
+    "catalogNumber": 31,
+    "name": "ICU",
+    "slug": "icu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 32,
+    "name": "MICU",
+    "slug": "micu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 33,
+    "name": "SICU",
+    "slug": "sicu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 34,
+    "name": "CCU",
+    "slug": "ccu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 35,
+    "name": "NICU",
+    "slug": "nicu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 36,
+    "name": "PICU",
+    "slug": "picu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 37,
+    "name": "HDU",
+    "slug": "hdu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 38,
+    "name": "Emergency Department",
+    "slug": "emergency-department",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 39,
+    "name": "Trauma Centre",
+    "slug": "trauma-centre",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 40,
+    "name": "Operation Theatre",
+    "slug": "operation-theatre",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 41,
+    "name": "Recovery / PACU",
+    "slug": "pacu",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 42,
+    "name": "Labour Room",
+    "slug": "labour-room",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 43,
+    "name": "Dialysis Unit",
+    "slug": "dialysis-unit",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 44,
+    "name": "Isolation Unit",
+    "slug": "isolation-unit",
+    "category": "critical-care-units"
+  },
+  {
+    "catalogNumber": 45,
+    "name": "ICU Bed",
+    "slug": "icu-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 46,
+    "name": "Ventilated Patient Bed",
+    "slug": "ventilated-patient-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 47,
+    "name": "Bed with Patient Monitor",
+    "slug": "monitored-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 48,
+    "name": "Bed with IV",
+    "slug": "iv-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 49,
+    "name": "Bed with Oxygen",
+    "slug": "oxygen-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 50,
+    "name": "Neonatal Incubator",
+    "slug": "neonatal-incubator",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 51,
+    "name": "Labour / Delivery Bed",
+    "slug": "delivery-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 52,
+    "name": "Dialysis Chair",
+    "slug": "dialysis-chair",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 53,
+    "name": "Recovery Bed",
+    "slug": "recovery-bed",
+    "category": "beds-and-patient-support"
+  },
+  {
+    "catalogNumber": 54,
+    "name": "X-Ray Machine",
+    "slug": "x-ray-machine",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 55,
+    "name": "Chest X-Ray",
+    "slug": "chest-x-ray",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 56,
+    "name": "Bone X-Ray",
+    "slug": "bone-x-ray",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 57,
+    "name": "CT Scanner",
+    "slug": "ct-scanner",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 58,
+    "name": "MRI Scanner",
+    "slug": "mri-scanner",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 59,
+    "name": "Ultrasound",
+    "slug": "ultrasound",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 60,
+    "name": "Pregnancy Ultrasound",
+    "slug": "pregnancy-ultrasound",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 61,
+    "name": "Mammography",
+    "slug": "mammography",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 62,
+    "name": "PET-CT",
+    "slug": "pet-ct",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 63,
+    "name": "C-Arm",
+    "slug": "c-arm",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 64,
+    "name": "Fluoroscopy",
+    "slug": "fluoroscopy",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 65,
+    "name": "Interventional Radiology",
+    "slug": "interventional-radiology",
+    "category": "imaging-and-radiology"
+  },
+  {
+    "catalogNumber": 66,
+    "name": "12-Lead ECG",
+    "slug": "twelve-lead-ecg",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 67,
+    "name": "Echocardiography",
+    "slug": "echocardiography",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 68,
+    "name": "Holter Monitor",
+    "slug": "holter-monitor",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 69,
+    "name": "Treadmill Test / TMT",
+    "slug": "treadmill-test",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 70,
+    "name": "Coronary Angiography",
+    "slug": "coronary-angiography",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 71,
+    "name": "Cardiac Catheterisation",
+    "slug": "cardiac-catheterisation",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 72,
+    "name": "Pacemaker",
+    "slug": "pacemaker",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 73,
+    "name": "Defibrillation",
+    "slug": "defibrillation",
+    "category": "cardiac-diagnostics"
+  },
+  {
+    "catalogNumber": 74,
+    "name": "Blood Sample Collection",
+    "slug": "blood-sample-collection",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 75,
+    "name": "Vacutainer Set",
+    "slug": "vacutainer-set",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 76,
+    "name": "Blood Culture",
+    "slug": "blood-culture",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 77,
+    "name": "Histopathology",
+    "slug": "histopathology",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 78,
+    "name": "Biopsy Sample",
+    "slug": "biopsy-sample",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 79,
+    "name": "Cytology",
+    "slug": "cytology",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 80,
+    "name": "PCR / Molecular Diagnostics",
+    "slug": "pcr",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 81,
+    "name": "Blood Cell Analysis",
+    "slug": "blood-cell-analysis",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 82,
+    "name": "Microbiology Culture",
+    "slug": "microbiology-culture",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 83,
+    "name": "Blood Bank",
+    "slug": "blood-bank",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 84,
+    "name": "Blood Transfusion",
+    "slug": "blood-transfusion",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 85,
+    "name": "Pathology Slide",
+    "slug": "pathology-slide",
+    "category": "laboratory-and-pathology"
+  },
+  {
+    "catalogNumber": 86,
+    "name": "Laparoscopic Surgery",
+    "slug": "laparoscopic-surgery",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 87,
+    "name": "Robotic Surgery",
+    "slug": "robotic-surgery",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 88,
+    "name": "Arthroscopy",
+    "slug": "arthroscopy",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 89,
+    "name": "Endoscopy",
+    "slug": "endoscopy",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 90,
+    "name": "Colonoscopy",
+    "slug": "colonoscopy",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 91,
+    "name": "Bronchoscopy",
+    "slug": "bronchoscopy",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 92,
+    "name": "Cardiac Surgery",
+    "slug": "cardiac-surgery",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 93,
+    "name": "Neurosurgery",
+    "slug": "neurosurgery",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 94,
+    "name": "Joint Replacement Surgery",
+    "slug": "joint-replacement",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 95,
+    "name": "Spine Surgery",
+    "slug": "spine-surgery",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 96,
+    "name": "Fracture Fixation",
+    "slug": "fracture-fixation",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 97,
+    "name": "Caesarean Section",
+    "slug": "caesarean-section",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 98,
+    "name": "Organ Transplant",
+    "slug": "organ-transplant",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 99,
+    "name": "Angioplasty / Stent",
+    "slug": "angioplasty-stent",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 100,
+    "name": "Dialysis",
+    "slug": "dialysis",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 101,
+    "name": "Radiation Therapy",
+    "slug": "radiation-therapy",
+    "category": "surgery-and-procedures"
+  },
+  {
+    "catalogNumber": 102,
+    "name": "Shoulder Joint",
+    "slug": "shoulder-joint",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 103,
+    "name": "Shoulder Replacement",
+    "slug": "shoulder-replacement",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 104,
+    "name": "Elbow Joint",
+    "slug": "elbow-joint",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 105,
+    "name": "Wrist Joint",
+    "slug": "wrist-joint",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 106,
+    "name": "Hip Joint",
+    "slug": "hip-joint",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 107,
+    "name": "Hip Replacement",
+    "slug": "hip-replacement",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 108,
+    "name": "Knee Joint",
+    "slug": "knee-joint",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 109,
+    "name": "Knee Replacement",
+    "slug": "knee-replacement",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 110,
+    "name": "ACL",
+    "slug": "acl",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 111,
+    "name": "Meniscus",
+    "slug": "meniscus",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 112,
+    "name": "Spine",
+    "slug": "spine",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 113,
+    "name": "Scoliosis",
+    "slug": "scoliosis",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 114,
+    "name": "Fracture Fixation",
+    "slug": "fracture-fixation",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 115,
+    "name": "Plate and Screws",
+    "slug": "plate-screws",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 116,
+    "name": "Intramedullary Nail",
+    "slug": "intramedullary-nail",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 117,
+    "name": "External Fixator",
+    "slug": "external-fixator",
+    "category": "orthopaedics"
+  },
+  {
+    "catalogNumber": 118,
+    "name": "Uterus",
+    "slug": "uterus",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 119,
+    "name": "Ovary",
+    "slug": "ovary",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 120,
+    "name": "Female Reproductive System",
+    "slug": "female-reproductive-system",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 121,
+    "name": "Pregnancy / Foetus",
+    "slug": "pregnancy-foetus",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 122,
+    "name": "Foetal Medicine",
+    "slug": "foetal-medicine",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 123,
+    "name": "Normal Delivery",
+    "slug": "normal-delivery",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 124,
+    "name": "Caesarean Delivery",
+    "slug": "caesarean-section",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 125,
+    "name": "Breastfeeding",
+    "slug": "breastfeeding",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 126,
+    "name": "IVF",
+    "slug": "ivf",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 127,
+    "name": "Egg Retrieval",
+    "slug": "egg-retrieval",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 128,
+    "name": "Embryo",
+    "slug": "embryo",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 129,
+    "name": "Embryo Transfer",
+    "slug": "embryo-transfer",
+    "category": "womens-health-and-fertility"
+  },
+  {
+    "catalogNumber": 130,
+    "name": "Newborn",
+    "slug": "newborn",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 131,
+    "name": "Premature Baby",
+    "slug": "premature-baby",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 132,
+    "name": "Baby Incubator",
+    "slug": "neonatal-incubator",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 133,
+    "name": "Neonatal Ventilation",
+    "slug": "neonatal-ventilation",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 134,
+    "name": "Mother and Baby",
+    "slug": "mother-baby",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 135,
+    "name": "Paediatric Care",
+    "slug": "paediatrics",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 136,
+    "name": "Child Development",
+    "slug": "child-development",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 137,
+    "name": "Paediatric Surgery",
+    "slug": "paediatric-surgery",
+    "category": "paediatrics-and-neonatal"
+  },
+  {
+    "catalogNumber": 138,
+    "name": "Anatomical Heart",
+    "slug": "anatomical-heart",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 139,
+    "name": "Coronary Arteries",
+    "slug": "coronary-arteries",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 140,
+    "name": "Lungs",
+    "slug": "lungs",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 141,
+    "name": "Bronchial Tree",
+    "slug": "bronchial-tree",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 142,
+    "name": "Liver",
+    "slug": "liver",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 143,
+    "name": "Pancreas",
+    "slug": "pancreas",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 144,
+    "name": "Stomach",
+    "slug": "stomach",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 145,
+    "name": "Intestine / GI Tract",
+    "slug": "gi-tract",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 146,
+    "name": "Colon",
+    "slug": "colon",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 147,
+    "name": "Kidneys",
+    "slug": "kidneys",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 148,
+    "name": "Bladder",
+    "slug": "bladder",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 149,
+    "name": "Prostate",
+    "slug": "prostate",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 150,
+    "name": "Thyroid",
+    "slug": "thyroid",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 151,
+    "name": "Uterus",
+    "slug": "uterus",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 152,
+    "name": "Breast",
+    "slug": "breast",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 153,
+    "name": "Spinal Column",
+    "slug": "spine",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 154,
+    "name": "Knee Anatomy",
+    "slug": "knee-joint",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 155,
+    "name": "Hip Anatomy",
+    "slug": "hip-joint",
+    "category": "anatomy"
+  },
+  {
+    "catalogNumber": 156,
+    "name": "Pulmonary Function Test",
+    "slug": "pulmonary-function-test",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 157,
+    "name": "Spirometry",
+    "slug": "spirometry",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 158,
+    "name": "Bronchoscopy",
+    "slug": "bronchoscopy",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 159,
+    "name": "Nebulisation",
+    "slug": "nebulisation",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 160,
+    "name": "Oxygen Therapy",
+    "slug": "oxygen-therapy",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 161,
+    "name": "Mechanical Ventilation",
+    "slug": "mechanical-ventilation",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 162,
+    "name": "CPAP / BiPAP",
+    "slug": "cpap-bipap",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 163,
+    "name": "Sleep Study",
+    "slug": "sleep-study",
+    "category": "respiratory-and-sleep"
+  },
+  {
+    "catalogNumber": 164,
+    "name": "Trauma Patient",
+    "slug": "trauma-patient",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 165,
+    "name": "Resuscitation",
+    "slug": "resuscitation",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 166,
+    "name": "CPR",
+    "slug": "cpr",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 167,
+    "name": "Emergency Ventilation",
+    "slug": "emergency-ventilation",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 168,
+    "name": "Emergency Bed",
+    "slug": "emergency-bed",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 169,
+    "name": "Trauma Surgery",
+    "slug": "trauma-surgery",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 170,
+    "name": "Polytrauma",
+    "slug": "polytrauma",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 171,
+    "name": "Emergency Triage",
+    "slug": "emergency-triage",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 172,
+    "name": "Code Blue",
+    "slug": "code-blue",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 173,
+    "name": "Air Ambulance",
+    "slug": "air-ambulance",
+    "category": "emergency-and-trauma"
+  },
+  {
+    "catalogNumber": 174,
+    "name": "Physiotherapy",
+    "slug": "physiotherapy",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 175,
+    "name": "Gait Training",
+    "slug": "gait-training",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 176,
+    "name": "Joint Rehabilitation",
+    "slug": "joint-rehabilitation",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 177,
+    "name": "Sports Rehabilitation",
+    "slug": "sports-rehabilitation",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 178,
+    "name": "Neuro Rehabilitation",
+    "slug": "neuro-rehabilitation",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 179,
+    "name": "Pulmonary Rehabilitation",
+    "slug": "pulmonary-rehabilitation",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 180,
+    "name": "Cardiac Rehabilitation",
+    "slug": "cardiac-rehabilitation",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 181,
+    "name": "Occupational Therapy",
+    "slug": "occupational-therapy",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 182,
+    "name": "Speech Therapy",
+    "slug": "speech-therapy",
+    "category": "rehabilitation"
+  },
+  {
+    "catalogNumber": 183,
+    "name": "OP Consultation",
+    "slug": "op-consultation",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 184,
+    "name": "Inpatient Admission",
+    "slug": "inpatient-admission",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 185,
+    "name": "Day Care Admission",
+    "slug": "day-care-admission",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 186,
+    "name": "Preoperative Assessment",
+    "slug": "preoperative-assessment",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 187,
+    "name": "Surgery Scheduled",
+    "slug": "surgery-scheduled",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 188,
+    "name": "Postoperative Care",
+    "slug": "postoperative-care",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 189,
+    "name": "Patient Transfer",
+    "slug": "patient-transfer",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 190,
+    "name": "Discharge",
+    "slug": "discharge",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 191,
+    "name": "Follow-up Consultation",
+    "slug": "follow-up-consultation",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 192,
+    "name": "Home Healthcare",
+    "slug": "home-healthcare",
+    "category": "patient-journey"
+  },
+  {
+    "catalogNumber": 193,
+    "name": "24/7 Emergency",
+    "slug": "round-the-clock-emergency",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 194,
+    "name": "Preventive Health Check",
+    "slug": "preventive-health-check",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 195,
+    "name": "Master Health Check",
+    "slug": "master-health-check",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 196,
+    "name": "Executive Health Check",
+    "slug": "executive-health-check",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 197,
+    "name": "Home Sample Collection",
+    "slug": "home-sample-collection",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 198,
+    "name": "Home Nursing",
+    "slug": "home-nursing",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 199,
+    "name": "Home Physiotherapy",
+    "slug": "home-physiotherapy",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 200,
+    "name": "Pharmacy Delivery",
+    "slug": "pharmacy-delivery",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 201,
+    "name": "International Patient Care",
+    "slug": "international-patient-care",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 202,
+    "name": "Medical Tourism",
+    "slug": "medical-tourism",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 203,
+    "name": "Organ Transplant Program",
+    "slug": "organ-transplant",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 204,
+    "name": "Blood Donation",
+    "slug": "blood-donation",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 205,
+    "name": "Palliative Care",
+    "slug": "palliative-care",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 206,
+    "name": "Rehabilitation Program",
+    "slug": "rehabilitation-program",
+    "category": "hospital-services"
+  },
+  {
+    "catalogNumber": 207,
+    "name": "Ventilator",
+    "slug": "ventilator",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 208,
+    "name": "Patient Monitor",
+    "slug": "patient-monitor",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 209,
+    "name": "Infusion Pump",
+    "slug": "infusion-pump",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 210,
+    "name": "Syringe Pump",
+    "slug": "syringe-pump",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 211,
+    "name": "Dialysis Machine",
+    "slug": "dialysis-machine",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 212,
+    "name": "Anaesthesia Workstation",
+    "slug": "anaesthesia-workstation",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 213,
+    "name": "Surgical Robot",
+    "slug": "surgical-robot",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 214,
+    "name": "C-Arm",
+    "slug": "c-arm",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 215,
+    "name": "Incubator",
+    "slug": "neonatal-incubator",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 216,
+    "name": "ECMO",
+    "slug": "ecmo",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 217,
+    "name": "Heart-Lung Machine",
+    "slug": "heart-lung-machine",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 218,
+    "name": "Cath Lab System",
+    "slug": "cath-lab-system",
+    "category": "clinical-equipment"
+  },
+  {
+    "catalogNumber": 219,
+    "name": "Heart Attack",
+    "slug": "heart-attack",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 220,
+    "name": "Stroke",
+    "slug": "stroke",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 221,
+    "name": "Coronary Artery Disease",
+    "slug": "coronary-artery-disease",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 222,
+    "name": "Heart Failure",
+    "slug": "heart-failure",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 223,
+    "name": "Diabetes",
+    "slug": "diabetes",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 224,
+    "name": "Kidney Disease",
+    "slug": "kidney-disease",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 225,
+    "name": "Kidney Stone",
+    "slug": "kidney-stone",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 226,
+    "name": "Cancer",
+    "slug": "cancer",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 227,
+    "name": "Arthritis",
+    "slug": "arthritis",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 228,
+    "name": "Osteoporosis",
+    "slug": "osteoporosis",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 229,
+    "name": "Asthma",
+    "slug": "asthma",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 230,
+    "name": "COPD",
+    "slug": "copd",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 231,
+    "name": "Liver Disease",
+    "slug": "liver-disease",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 232,
+    "name": "High-Risk Pregnancy",
+    "slug": "high-risk-pregnancy",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 233,
+    "name": "Cataract",
+    "slug": "cataract",
+    "category": "conditions"
+  },
+  {
+    "catalogNumber": 234,
+    "name": "Glaucoma",
+    "slug": "glaucoma",
+    "category": "conditions"
+  }
+]

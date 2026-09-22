@@ -1,0 +1,9 @@
+export { IcuBedIcon } from "../icons/beds-and-patient-support/icu-bed.js";
+export { VentilatedPatientBedIcon } from "../icons/beds-and-patient-support/ventilated-patient-bed.js";
+export { MonitoredBedIcon } from "../icons/beds-and-patient-support/monitored-bed.js";
+export { IvBedIcon } from "../icons/beds-and-patient-support/iv-bed.js";
+export { OxygenBedIcon } from "../icons/beds-and-patient-support/oxygen-bed.js";
+export { NeonatalIncubatorIcon } from "../icons/beds-and-patient-support/neonatal-incubator.js";
+export { DeliveryBedIcon } from "../icons/beds-and-patient-support/delivery-bed.js";
+export { DialysisChairIcon } from "../icons/beds-and-patient-support/dialysis-chair.js";
+export { RecoveryBedIcon } from "../icons/beds-and-patient-support/recovery-bed.js";

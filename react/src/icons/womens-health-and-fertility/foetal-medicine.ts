@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const FoetalMedicineIcon = createClinicalIcon("foetal-medicine", "FoetalMedicineIcon", [{"tag":"g","attrs":{"transform":"translate(-1 0) scale(0.84)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M20 7 C32 5 41 13 40 25 C39 38 28 45 17 40 C7 37 5 27 8 17 C10 11 15 8 20 7 Z"}},{"tag":"circle","role":"accent","attrs":{"cx":25,"cy":20,"r":5}},{"tag":"path","role":"cut","attrs":{"d":"M21 25 C16 25 15 34 22 35 C28 36 33 30 29 28 M19 30 L25 31 M25 24 L29 28 M33 15 C37 23 33 32 29 34"}}]},{"tag":"rect","role":"accent","attrs":{"x":32,"y":19,"width":10,"height":16,"rx":2,"transform":"rotate(20 37 27)"}},{"tag":"path","role":"line","attrs":{"d":"M39 20 C39 12 44 13 44 7"}},{"tag":"path","role":"cut","attrs":{"d":"M33 25 L41 28"}}], "M34 31 L20 27 L28 20");

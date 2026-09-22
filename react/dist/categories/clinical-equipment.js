@@ -1,0 +1,12 @@
+export { NeonatalIncubatorIcon } from "../icons/beds-and-patient-support/neonatal-incubator.js";
+export { CArmIcon } from "../icons/imaging-and-radiology/c-arm.js";
+export { VentilatorIcon } from "../icons/clinical-equipment/ventilator.js";
+export { PatientMonitorIcon } from "../icons/clinical-equipment/patient-monitor.js";
+export { InfusionPumpIcon } from "../icons/clinical-equipment/infusion-pump.js";
+export { SyringePumpIcon } from "../icons/clinical-equipment/syringe-pump.js";
+export { DialysisMachineIcon } from "../icons/clinical-equipment/dialysis-machine.js";
+export { AnaesthesiaWorkstationIcon } from "../icons/clinical-equipment/anaesthesia-workstation.js";
+export { SurgicalRobotIcon } from "../icons/clinical-equipment/surgical-robot.js";
+export { EcmoIcon } from "../icons/clinical-equipment/ecmo.js";
+export { HeartLungMachineIcon } from "../icons/clinical-equipment/heart-lung-machine.js";
+export { CathLabSystemIcon } from "../icons/clinical-equipment/cath-lab-system.js";

@@ -1,0 +1,12 @@
+export { CaesareanSectionIcon } from "../icons/surgery-and-procedures/caesarean-section.js";
+export { UterusIcon } from "../icons/womens-health-and-fertility/uterus.js";
+export { OvaryIcon } from "../icons/womens-health-and-fertility/ovary.js";
+export { FemaleReproductiveSystemIcon } from "../icons/womens-health-and-fertility/female-reproductive-system.js";
+export { PregnancyFoetusIcon } from "../icons/womens-health-and-fertility/pregnancy-foetus.js";
+export { FoetalMedicineIcon } from "../icons/womens-health-and-fertility/foetal-medicine.js";
+export { NormalDeliveryIcon } from "../icons/womens-health-and-fertility/normal-delivery.js";
+export { BreastfeedingIcon } from "../icons/womens-health-and-fertility/breastfeeding.js";
+export { IvfIcon } from "../icons/womens-health-and-fertility/ivf.js";
+export { EggRetrievalIcon } from "../icons/womens-health-and-fertility/egg-retrieval.js";
+export { EmbryoIcon } from "../icons/womens-health-and-fertility/embryo.js";
+export { EmbryoTransferIcon } from "../icons/womens-health-and-fertility/embryo-transfer.js";

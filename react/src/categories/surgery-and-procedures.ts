@@ -1,0 +1,16 @@
+export { NeurosurgeryIcon } from "../icons/specialties/neurosurgery.js";
+export { SpineSurgeryIcon } from "../icons/specialties/spine-surgery.js";
+export { JointReplacementIcon } from "../icons/specialties/joint-replacement.js";
+export { LaparoscopicSurgeryIcon } from "../icons/surgery-and-procedures/laparoscopic-surgery.js";
+export { RoboticSurgeryIcon } from "../icons/surgery-and-procedures/robotic-surgery.js";
+export { ArthroscopyIcon } from "../icons/surgery-and-procedures/arthroscopy.js";
+export { EndoscopyIcon } from "../icons/surgery-and-procedures/endoscopy.js";
+export { ColonoscopyIcon } from "../icons/surgery-and-procedures/colonoscopy.js";
+export { BronchoscopyIcon } from "../icons/surgery-and-procedures/bronchoscopy.js";
+export { CardiacSurgeryIcon } from "../icons/surgery-and-procedures/cardiac-surgery.js";
+export { FractureFixationIcon } from "../icons/surgery-and-procedures/fracture-fixation.js";
+export { CaesareanSectionIcon } from "../icons/surgery-and-procedures/caesarean-section.js";
+export { OrganTransplantIcon } from "../icons/surgery-and-procedures/organ-transplant.js";
+export { AngioplastyStentIcon } from "../icons/surgery-and-procedures/angioplasty-stent.js";
+export { DialysisIcon } from "../icons/surgery-and-procedures/dialysis.js";
+export { RadiationTherapyIcon } from "../icons/surgery-and-procedures/radiation-therapy.js";

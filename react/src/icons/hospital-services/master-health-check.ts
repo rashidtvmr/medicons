@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const MasterHealthCheckIcon = createClinicalIcon("master-health-check", "MasterHealthCheckIcon", [{"tag":"rect","role":"body","attrs":{"x":6,"y":5,"width":36,"height":39,"rx":3}},{"tag":"rect","role":"accent","attrs":{"x":11,"y":11,"width":12,"height":12,"rx":2}},{"tag":"path","role":"cut","attrs":{"d":"M13 18 H16 L18 14 L20 20 M28 13 H37 M28 19 H34 M11 30 H23 M11 36 H20"}},{"tag":"path","role":"accent","attrs":{"d":"M33 27 C26 34 28 40 33 40 C38 40 40 34 33 27 Z"}}]);

@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const HomeSampleCollectionIcon = createClinicalIcon("home-sample-collection", "HomeSampleCollectionIcon", [{ "tag": "path", "role": "line", "attrs": { "d": "M5 22 L24 6 L43 22 M9 22 V42 H39 V22" } }, { "tag": "g", "attrs": { "transform": "translate(12 16) scale(0.54)" }, "children": [{ "tag": "rect", "role": "body", "attrs": { "x": 15, "y": 7, "width": 18, "height": 6, "rx": 1 } }, { "tag": "rect", "role": "body", "attrs": { "x": 17, "y": 13, "width": 14, "height": 29, "rx": 4 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M20 29 H28 M20 25 H24 M20 34 H28" } }, { "tag": "path", "role": "accent", "attrs": { "d": "M18 32 H30 V37 Q24 45 18 37 Z" } }] }]);

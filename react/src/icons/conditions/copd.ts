@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const CopdIcon = createClinicalIcon("copd", "CopdIcon", [{"tag":"g","attrs":{"transform":"translate(-2 0) scale(0.76)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M20 14 C16 11 11 17 8 25 C5 33 5 39 10 40 C15 41 21 36 21 32 L21 18 Z"}},{"tag":"path","role":"body","attrs":{"d":"M28 14 C32 11 37 17 40 25 C43 33 43 39 38 40 C33 41 27 36 27 32 L27 18 Z"}},{"tag":"path","role":"line","attrs":{"d":"M24 6 L24 22 M24 21 L16 29 M24 21 L32 29"}},{"tag":"path","role":"cut","attrs":{"d":"M17 27 L13 26 M31 27 L35 26 M16 29 L15 34 M32 29 L33 34"}}]},{"tag":"circle","role":"accent","attrs":{"cx":32,"cy":33,"r":11}},{"tag":"path","role":"cut","attrs":{"d":"M24 29 C29 26 32 29 29 33 C29 38 24 39 24 34 M34 26 C39 25 42 33 37 33 C40 37 34 41 32 37 M29 33 L33 34"}}]);

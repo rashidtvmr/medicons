@@ -1,0 +1,14 @@
+export { IcuIcon } from "../icons/critical-care-units/icu.js";
+export { MicuIcon } from "../icons/critical-care-units/micu.js";
+export { SicuIcon } from "../icons/critical-care-units/sicu.js";
+export { CcuIcon } from "../icons/critical-care-units/ccu.js";
+export { NicuIcon } from "../icons/critical-care-units/nicu.js";
+export { PicuIcon } from "../icons/critical-care-units/picu.js";
+export { HduIcon } from "../icons/critical-care-units/hdu.js";
+export { EmergencyDepartmentIcon } from "../icons/critical-care-units/emergency-department.js";
+export { TraumaCentreIcon } from "../icons/critical-care-units/trauma-centre.js";
+export { OperationTheatreIcon } from "../icons/critical-care-units/operation-theatre.js";
+export { PacuIcon } from "../icons/critical-care-units/pacu.js";
+export { LabourRoomIcon } from "../icons/critical-care-units/labour-room.js";
+export { DialysisUnitIcon } from "../icons/critical-care-units/dialysis-unit.js";
+export { IsolationUnitIcon } from "../icons/critical-care-units/isolation-unit.js";

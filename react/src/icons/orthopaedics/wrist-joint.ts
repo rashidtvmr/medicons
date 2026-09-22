@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const WristJointIcon = createClinicalIcon("wrist-joint", "WristJointIcon", [{"tag":"path","role":"body","attrs":{"d":"M9 6 L20 5 L20 22 Q13 26 11 22 Z"}},{"tag":"path","role":"body","attrs":{"d":"M25 5 L32 7 L29 22 L24 22 Z"}},{"tag":"rect","role":"accent","attrs":{"x":10,"y":28,"width":7,"height":6,"rx":2}},{"tag":"rect","role":"accent","attrs":{"x":20,"y":27,"width":7,"height":6,"rx":2}},{"tag":"rect","role":"accent","attrs":{"x":29,"y":27,"width":7,"height":6,"rx":2}},{"tag":"path","role":"line","attrs":{"d":"M11 35 L8 43 M18 35 L17 44 M26 35 V44 M33 34 L37 42"}},{"tag":"path","role":"cut","attrs":{"d":"M14 10 L15 19 M28 11 L27 19"}}]);

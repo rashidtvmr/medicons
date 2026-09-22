@@ -1,0 +1,4 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+
+export const OrganTransplantIcon = createClinicalIcon("organ-transplant", "OrganTransplantIcon", [{"tag":"g","attrs":{"transform":"translate(12 -1) scale(0.76)"},"children":[{"tag":"path","role":"body","attrs":{"d":"M26 8 C17 3 8 11 8 24 C8 38 18 44 26 38 C32 34 27 29 23 29 C19 29 17 27 17 24 C17 20 19 18 23 18 C29 18 31 12 26 8 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M23 12 C16 10 12 17 12 24 C12 32 16 37 22 35"}}]},{"tag":"path","role":"body","attrs":{"d":"M4 33 L10 28 L17 32 H31 L35 28 L44 32 L38 41 H13 Z"}},{"tag":"path","role":"cut","attrs":{"d":"M11 32 L18 36 H31 L37 32"}}]);

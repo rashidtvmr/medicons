@@ -1,0 +1,16 @@
+export { FractureFixationIcon } from "../icons/surgery-and-procedures/fracture-fixation.js";
+export { ShoulderJointIcon } from "../icons/orthopaedics/shoulder-joint.js";
+export { ShoulderReplacementIcon } from "../icons/orthopaedics/shoulder-replacement.js";
+export { ElbowJointIcon } from "../icons/orthopaedics/elbow-joint.js";
+export { WristJointIcon } from "../icons/orthopaedics/wrist-joint.js";
+export { HipJointIcon } from "../icons/orthopaedics/hip-joint.js";
+export { HipReplacementIcon } from "../icons/orthopaedics/hip-replacement.js";
+export { KneeJointIcon } from "../icons/orthopaedics/knee-joint.js";
+export { KneeReplacementIcon } from "../icons/orthopaedics/knee-replacement.js";
+export { AclIcon } from "../icons/orthopaedics/acl.js";
+export { MeniscusIcon } from "../icons/orthopaedics/meniscus.js";
+export { SpineIcon } from "../icons/orthopaedics/spine.js";
+export { ScoliosisIcon } from "../icons/orthopaedics/scoliosis.js";
+export { PlateScrewsIcon } from "../icons/orthopaedics/plate-screws.js";
+export { IntramedullaryNailIcon } from "../icons/orthopaedics/intramedullary-nail.js";
+export { ExternalFixatorIcon } from "../icons/orthopaedics/external-fixator.js";

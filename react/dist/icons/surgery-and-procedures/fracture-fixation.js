@@ -1,0 +1,3 @@
+"use client";
+import { createClinicalIcon } from "../../core.js";
+export const FractureFixationIcon = createClinicalIcon("fracture-fixation", "FractureFixationIcon", [{ "tag": "path", "role": "body", "attrs": { "d": "M15 5 H28 L28 18 L22 22 L26 26 L19 29 L16 22 Z" } }, { "tag": "path", "role": "body", "attrs": { "d": "M17 29 L23 27 L28 29 L29 43 H17 Z" } }, { "tag": "rect", "role": "accent", "attrs": { "x": 28, "y": 12, "width": 7, "height": 26, "rx": 2 } }, { "tag": "path", "role": "cut", "attrs": { "d": "M22 16 H39 M22 24 H39 M22 33 H39" } }, { "tag": "path", "role": "cut", "attrs": { "d": "M31 14 V36" } }]);
